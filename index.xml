@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fourth World SRD</title>
+    <link>https://weeknightgames.github.io/fourth-world-srd/</link>
+    <description>Recent content on Fourth World SRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
