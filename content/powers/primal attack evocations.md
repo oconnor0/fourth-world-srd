@@ -1,0 +1,43 @@
+---
+title: "Primal Attack Evocations"
+anchor: "powers-primal-attack-evocations"
+weight: 800
+---
+
+- Acid Arrow. *An arrow of acid springs from your hand and speeds to its target.*
+  - Primal, Evocation, Chemical, Implement, Attack
+  - Level 2/3/4/5, Common
+  - Time: 1 Action
+  - Range: 100'
+  - Target: 1 creature
+  - Attack: ATTR vs. Reflex
+  - Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends)
+  - Miss: half damage
+- Fireball. *A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.*
+  - Primal, Evocation, Thermal, Implement, Area, Attack
+  - Level 3/5/7/9, Common
+  - Time: 1 Action
+  - Range: 20'-diameter sphere within 100'
+  - Target: each creature in area
+  - Attack: ATTR vs. Reflex
+  - Hit: 3d6/4d6/5d6/6d6 + ATTR thermal damage
+  - Miss: half damage
+- Frost Blast. *Cold and ice blasts from your hand in a cone, slicing and freezing those before you.*
+  - Primal, Evocation, Glacial, Implement, Area, Attack
+  - Level 3/5/7/9, Common
+  - Time: 1 Action
+  - Range: 25' cone
+  - Target: each creature in area
+  - Attack: ATTR vs. Reflex
+  - Hit: 4d4/5d4/6d4/7d4 + ATTR glacial damage and slowed (save ends)
+  - Miss: half damage and slowed for 1 round
+- Lightning Bolt. *You release a powerful stroke of electrical energy in a line blasting out from you in a direction you choose.*
+  - Primal, Evocation, Electrical, Implement, Line, Attack
+  - Level 3/5/7/9, Common
+  - Time: 1 Action
+  - Range: 100' line
+  - Target: each creature in line
+  - Attack: ATTR vs. Reflex
+  - Hit: 3d6/4d6/5d6/6d6 + ATTR electrical damage
+  - Miss: half damage
+

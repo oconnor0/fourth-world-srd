@@ -10,3 +10,6 @@ sidebarColor = "default"
 # name = "Kraiklyn on Github"
 # url = "https://github.com/jsnjack/kraiklyn"
 # weight = 10
+
+[blackfriday]
+fractions = false
