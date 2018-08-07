@@ -8,13 +8,29 @@
   </url>
   
   <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/classes/</loc>
+  </url>
+  
+  <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/skills/</loc>
+  </url>
+  
+  <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</loc>
   </url>
   
 </urlset>
