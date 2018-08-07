@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fourth World SRD</title>
-    <link>https://weeknightgames.github.io/fourth-world-srd/</link>
-    <description>Recent content on Fourth World SRD</description>
+    <title>Backgrounds on Fourth World SRD</title>
+    <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/</link>
+    <description>Recent content in Backgrounds on Fourth World SRD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/backgrounds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -71,15 +71,6 @@ Proficiencies.
     </item>
     
     <item>
-      <title>Shaman</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</guid>
-      <description>While some heroes speak to gods or consort with otherworldly muses, shamans commune with the spirits of the world and the energies that exist in every living thing. These primal adventurers draw upon their power to shape the world and expand the influence of their spiritual patrons. Shamans have strong ties to natural spirits. They form powerful bonds with particular spirits, and as their power grows they learn to call upon other spirits in times of need.</description>
-    </item>
-    
-    <item>
       <title>Student</title>
       <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -92,39 +83,12 @@ Proficiencies.
     </item>
     
     <item>
-      <title>Templar</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</guid>
-      <description>The templar stands wrapped in armor ready to protect his allies with magic and might.
-Source. Arcane
-Role. Defense
-Key Ability Score. Intelligence
-Alignment. Any
-Hit Die. d10
-Recoveries. 6
-Prerequisites. None.
-Proficiencies.
- Equipment.  Simple Weapons Military Weapons Light Armor Medium Armor Heavy Armor Light Shield Heavy Shield  Implements.  Weapons Shields  Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools. None.  Features.</description>
-    </item>
-    
-    <item>
       <title>Vagabond</title>
       <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Wizard</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</guid>
-      <description>Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible&amp;mdash;such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals.</description>
     </item>
     
   </channel>

@@ -3,12 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://weeknightgames.github.io/fourth-world-srd/categories/</loc>
-    <priority>0</priority>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/bloodlines/</loc>
   </url>
   
   <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/classes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/definitions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -17,11 +45,27 @@
   </url>
   
   <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</loc>
+  </url>
+  
+  <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</loc>
   </url>
   
   <url>
-    <loc>https://weeknightgames.github.io/fourth-world-srd/skills/</loc>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</loc>
   </url>
   
   <url>
@@ -31,6 +75,14 @@
   
   <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</loc>
   </url>
   
 </urlset>
