@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
-      <description></description>
+      <description>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&amp;mdash;performing sacred rites is not the same thing as channeling divine power.
+Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service.</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
       <description>You were apprenticed to a local craftsman.
-Proficiencies.
+Ability Score Increase. Choose 1 of
+ Strength Dexterity Intelligence  Proficiencies.
  Skills. None.
  Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies   </description>
     </item>
@@ -37,7 +39,7 @@ Proficiencies.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</guid>
-      <description></description>
+      <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
@@ -46,7 +48,7 @@ Proficiencies.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</guid>
-      <description></description>
+      <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
@@ -56,7 +58,8 @@ Proficiencies.
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</guid>
       <description>You come from aristocracy or nobility.
-Proficiencies.
+Ability Score Increase. Choose 1 of
+ Intelligence Wisdom Charisma  Proficiencies.
  Skills. Choose 1 of  Deception Diplomacy Intimidate Society  Tools. None.
   </description>
     </item>
@@ -67,7 +70,7 @@ Proficiencies.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</guid>
-      <description></description>
+      <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
@@ -86,7 +89,8 @@ Proficiencies.
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</guid>
       <description>You have been studying at a college or university.
-Proficiencies.
+Ability Score Increase. Choose 1 of
+ Intelligence Wisdom  Proficiencies.
  Skills. Choose 1 of  Arcana History Linguistics Medicine Nature Religion Science Technology  Tools. None.
   </description>
     </item>
@@ -106,7 +110,8 @@ Hit Die. d10
 Recoveries. 6
 Prerequisites. None.
 Proficiencies.
- Equipment.  Simple Weapons Military Weapons Light Armor Medium Armor Heavy Armor Light Shield Heavy Shield  Implements.  Weapons Shields  Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools. None.  Features.</description>
+ Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor Shields  Implements.  Weapons Shields  Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools. None.  Features.
+ Arcane Brilliance. You make Arcane attacks using your Intelligence.</description>
     </item>
     
     <item>
@@ -115,7 +120,7 @@ Proficiencies.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
-      <description></description>
+      <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
