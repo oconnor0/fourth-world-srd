@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powers on Fourth World SRD</title>
+    <link>https://weeknightgames.github.io/fourth-world-srd/powers/</link>
+    <description>Recent content in Powers on Fourth World SRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/powers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primal Evocations</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-evocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-evocations/</guid>
+      <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common 1 Action Range: 100&amp;rsquo; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage  Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
+    </item>
+    
+  </channel>
+</rss>
