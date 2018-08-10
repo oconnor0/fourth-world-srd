@@ -11,12 +11,48 @@
     
     
     <item>
+      <title>Arcane Attack Spells</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-attack-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-attack-spells/</guid>
+      <description>Plasmic Dart. You send a magical dart streaking toward a creature that you can see.  Arcane, Attack, Spell, Ranged, Plasmic Level 0/1/2, Common Time: 1 Action Range: 100&amp;rsquo; Target: 1/2/3 Creatures Attack: Automatic Hit Hit: 1d4 + 1 plasmic damage Miss:  Plasmic Touch. A touch from your hand, which glows with blue energy, blasts the target creature.  Arcane, Attack, Spell, Melee, Touch, Plasmic Level 0, Common Time: 1 Action Range: Melee Touch Target: 1 Creature Attack: ATTR vs.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Utility Spells</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-utility-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-utility-spells/</guid>
+      <description> Shield. Shield creates an invisible plasmic shield that hovers in front of you. Additionally you take no damage from Plasmic Dart.  Arcane, Utility, Spell, Implement, Plasmic Level 1, Common Time: 1 Action or 1 Reaction Range: Self Target: Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart Duration: Sustain 1 Action   </description>
+    </item>
+    
+    <item>
+      <title>Divine Attack Prayers</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/divine-attack-prayers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/divine-attack-prayers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divine Utility Prayers</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/divine-utility-prayers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/divine-utility-prayers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Martial Attack Deeds</title>
       <link>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</guid>
-      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:   </description>
+      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:   </description>
     </item>
     
     <item>
@@ -34,7 +70,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</guid>
-      <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common 1 Action Range: 100&amp;rsquo; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage  Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
+      <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common Time: 1 Action Range: 100&amp;rsquo; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage  Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
     </item>
     
     <item>
@@ -43,7 +79,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</guid>
-      <description>Enlarge Person. This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8.  Primal, Evocation, Implement, Polymorph, Utility Level 1, Common 1 Action Range: 25&amp;rsquo; Target: 1 willing, humanoid creature Effect: The target&amp;rsquo;s size increases 1 category for the rest of the encounter. (The target&amp;rsquo;s size gains a +1 power bonus&amp;mdash;increasing its size by 1 category&amp;mdash;for the rest of the encounter.)  Rime.</description>
+      <description>Enlarge Person. This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8.  Primal, Evocation, Implement, Polymorph, Utility Level 1, Common Time: 1 Action Range: 25&amp;rsquo; Target: 1 willing, humanoid creature Effect: The target&amp;rsquo;s size increases 1 category. (The target&amp;rsquo;s size gains a +1 power bonus&amp;mdash;increasing its size by 1 category.) Duration: Encounter  Rime. A weapon you touch becomes coated with ice.</description>
+    </item>
+    
+    <item>
+      <title>Technological Attack Wonders</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/technological-attack-wonders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/technological-attack-wonders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technological Utility Wonders</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/technological-utility-wonders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/technological-utility-wonders/</guid>
+      <description></description>
     </item>
     
   </channel>

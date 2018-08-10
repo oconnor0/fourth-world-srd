@@ -11,6 +11,26 @@
     
     
     <item>
+      <title>Roboticist</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</guid>
+      <description>You make awesome robots.
+Source. Technological
+Role. Support
+Key Ability Score. Intelligence
+Ability Score Increase. Choose 1 of
+ Dexterity Intelligence Wisdom  Alignment. Any
+Hit Die. d8
+Recoveries. 4
+Prerequisites.
+ Intelligence 13  Proficiencies.
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology  Tools. None.  Features.
+ Technological Brilliance.</description>
+    </item>
+    
+    <item>
       <title>Shaman</title>
       <link>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,14 +49,13 @@
 Source. Arcane
 Role. Defense
 Key Ability Score. Intelligence
-Ability Score Increase. Intelligence
-Alignment. Any
+Ability Score Increase. Choose 1 of
+ Strength Constitution Intelligence  Alignment. Any
 Hit Die. d10
 Recoveries. 6
 Prerequisites. None.
 Proficiencies.
- Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools. None.  Features.
- Arcane Brilliance. You make Arcane attacks using your Intelligence.</description>
+ Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools.</description>
     </item>
     
     <item>
