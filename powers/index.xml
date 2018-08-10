@@ -11,12 +11,39 @@
     
     
     <item>
-      <title>Primal Evocations</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-evocations/</link>
+      <title>Martial Attack Deeds</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-evocations/</guid>
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</guid>
+      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:   </description>
+    </item>
+    
+    <item>
+      <title>Martial Utility Deeds</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/martial-utility-deeds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/martial-utility-deeds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primal Attack Evocations</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</guid>
       <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common 1 Action Range: 100&amp;rsquo; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage  Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
+    </item>
+    
+    <item>
+      <title>Primal Utility Evocations</title>
+      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</guid>
+      <description>Enlarge Person. This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8.  Primal, Evocation, Implement, Polymorph, Utility Level 1, Common 1 Action Range: 25&amp;rsquo; Target: 1 willing, humanoid creature Effect: The target&amp;rsquo;s size increases 1 category for the rest of the encounter. (The target&amp;rsquo;s size gains a +1 power bonus&amp;mdash;increasing its size by 1 category&amp;mdash;for the rest of the encounter.)  Rime.</description>
     </item>
     
   </channel>

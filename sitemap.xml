@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/getting-started/</loc>
+  </url>
+  
+  <url>
     <loc>https://weeknightgames.github.io/fourth-world-srd/bloodlines/</loc>
   </url>
   
@@ -15,7 +19,19 @@
   </url>
   
   <url>
-    <loc>https://weeknightgames.github.io/fourth-world-srd/powers/primal-evocations/</loc>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/powers/martial-utility-deeds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</loc>
   </url>
   
   <url>
