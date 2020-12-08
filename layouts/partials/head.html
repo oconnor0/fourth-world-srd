@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
 <head>
-  {{ .Hugo.Generator }}
+  {{ hugo.Generator }}
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -14,7 +14,7 @@
   {{ range .Site.Params.customCss -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
   {{- end }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
   <style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s7{background-color:#cccccc;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s6{background-color:#d9d9d9;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s0{background-color:#ffffff;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;width:32px;}.ritz .waffle .s3{background-color:#f4cccc;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s1{background-color:#efefef;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s8{background-color:#b7b7b7;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s2{background-color:#d9ead3;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s4{background-color:#f3f3f3;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}.ritz .waffle .s5{background-color:#cfe2f3;text-align:center;color:#000000;vertical-align:bottom;white-space:nowrap;direction:ltr;padding:2px 3px 2px 3px;}</style>
 
