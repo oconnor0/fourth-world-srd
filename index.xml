@@ -1,165 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fourth World SRD</title>
-    <link>https://weeknightgames.github.io/fourth-world-srd/</link>
+    <link>https://oconnor0.github.io/fourth-world-srd/</link>
     <description>Recent content on Fourth World SRD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arcane Attack Spells</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-attack-spells/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/arcane-attack-spells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-attack-spells/</guid>
-      <description>Plasmic Dart. You send a magical dart streaking toward a creature that you can see.  Arcane, Attack, Spell, Ranged, Plasmic Level 0/1/2, Common Time: 1 Action Range: 100&amp;rsquo; Target: 1/2/3 Creatures Attack: Automatic Hit Hit: 1d4 + 1 plasmic damage Miss:  Plasmic Touch. A touch from your hand, which glows with blue energy, blasts the target creature.  Arcane, Attack, Spell, Melee, Touch, Plasmic Level 0, Common Time: 1 Action Range: Melee Touch Target: 1 Creature Attack: ATTR vs.</description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/arcane-attack-spells/</guid>
+      <description>Plasmic Dart. You send a magical dart streaking toward a creature that you can see.  Arcane, Attack, Spell, Ranged, Plasmic Level 0/1/2, Common Time: 1 Action Range: 100&#39; Target: 1/2/3 Creatures Attack: Automatic Hit Hit: 1d4 + 1 plasmic damage Miss:   Plasmic Touch. A touch from your hand, which glows with blue energy, blasts the target creature.  Arcane, Attack, Spell, Melee, Touch, Plasmic Level 0, Common Time: 1 Action Range: Melee Touch Target: 1 Creature Attack: ATTR vs.</description>
     </item>
     
     <item>
       <title>Arcane Utility Spells</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-utility-spells/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/arcane-utility-spells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/arcane-utility-spells/</guid>
-      <description> Shield. Shield creates an invisible plasmic shield that hovers in front of you. Additionally you take no damage from Plasmic Dart.  Arcane, Utility, Spell, Implement, Plasmic Level 1, Common Time: 1 Action or 1 Reaction Range: Self Target: Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart Duration: Sustain 1 Action   </description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/arcane-utility-spells/</guid>
+      <description> Shield. Shield creates an invisible plasmic shield that hovers in front of you. Additionally you take no damage from Plasmic Dart.  Arcane, Utility, Spell, Implement, Plasmic Level 1, Common Time: 1 Action or 1 Reaction Range: Self Target: Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart Duration: Sustain 1 Action    </description>
     </item>
     
     <item>
       <title>Divine Attack Prayers</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/divine-attack-prayers/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/divine-attack-prayers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/divine-attack-prayers/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/divine-attack-prayers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Divine Utility Prayers</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/divine-utility-prayers/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/divine-utility-prayers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/divine-utility-prayers/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/divine-utility-prayers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martial Attack Deeds</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/martial-attack-deeds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/martial-attack-deeds/</guid>
-      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:   </description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/martial-attack-deeds/</guid>
+      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:    </description>
     </item>
     
     <item>
       <title>Martial Utility Deeds</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/martial-utility-deeds/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/martial-utility-deeds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/martial-utility-deeds/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/martial-utility-deeds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primal Attack Evocations</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/primal-attack-evocations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-attack-evocations/</guid>
-      <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common Time: 1 Action Range: 100&amp;rsquo; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage  Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/primal-attack-evocations/</guid>
+      <description>Acid Arrow. An arrow of acid springs from your hand and speeds to its target.  Primal, Evocation, Chemical, Implement, Attack Level 2/3/4/5, Common Time: 1 Action Range: 100&#39; Target: 1 creature Attack: ATTR vs. Reflex Hit: 4d4/5d4/6d4/7d4 chemical damage and ongoing 5/6/7/8 chemical damage (save ends) Miss: half damage   Fireball. A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame.</description>
     </item>
     
     <item>
       <title>Primal Utility Evocations</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/primal-utility-evocations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/primal-utility-evocations/</guid>
-      <description>Enlarge Person. This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8.  Primal, Evocation, Implement, Polymorph, Utility Level 1, Common Time: 1 Action Range: 25&amp;rsquo; Target: 1 willing, humanoid creature Effect: The target&amp;rsquo;s size increases 1 category. (The target&amp;rsquo;s size gains a +1 power bonus&amp;mdash;increasing its size by 1 category.) Duration: Encounter  Rime. A weapon you touch becomes coated with ice.</description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/primal-utility-evocations/</guid>
+      <description>Enlarge Person. This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8.  Primal, Evocation, Implement, Polymorph, Utility Level 1, Common Time: 1 Action Range: 25&#39; Target: 1 willing, humanoid creature Effect: The target&amp;rsquo;s size increases 1 category. (The target&amp;rsquo;s size gains a +1 power bonus&amp;mdash;increasing its size by 1 category.) Duration: Encounter   Rime. A weapon you touch becomes coated with ice.</description>
     </item>
     
     <item>
       <title>Technological Attack Wonders</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/technological-attack-wonders/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/technological-attack-wonders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/technological-attack-wonders/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/technological-attack-wonders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technological Utility Wonders</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/powers/technological-utility-wonders/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/powers/technological-utility-wonders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/powers/technological-utility-wonders/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/powers/technological-utility-wonders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acolyte</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
       <description>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&amp;mdash;performing sacred rites is not the same thing as channeling divine power.
 Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service.</description>
     </item>
     
     <item>
       <title>Apprentice</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
       <description>You were apprenticed to a local craftsman.
 Ability Score Increase. Choose 1 of
  Strength Dexterity Intelligence  Proficiencies.
- Skills. None.
- Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies   </description>
+ Skills. None. Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies    </description>
     </item>
     
     <item>
       <title>Merchant</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Military</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Noble</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</guid>
       <description>You come from aristocracy or nobility.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom Charisma  Proficiencies.
- Skills. Choose 1 of  Deception Diplomacy Intimidate Society  Tools. None.
-  </description>
+ Skills. Choose 1 of  Deception Diplomacy Intimidate Society   Tools. None.  </description>
     </item>
     
     <item>
       <title>Roboticist</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</guid>
       <description>You make awesome robots.
 Source. Technological
 Role. Support
@@ -170,47 +164,45 @@ Hit Die. d8
 Recoveries. 4
 Prerequisites.
  Intelligence 13  Proficiencies.
- Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology  Tools. None.  Features.
- Technological Brilliance.</description>
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools. None.  Features.</description>
     </item>
     
     <item>
       <title>Sailor</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Shaman</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</guid>
       <description>While some heroes speak to gods or consort with otherworldly muses, shamans commune with the spirits of the world and the energies that exist in every living thing. These primal adventurers draw upon their power to shape the world and expand the influence of their spiritual patrons. Shamans have strong ties to natural spirits. They form powerful bonds with particular spirits, and as their power grows they learn to call upon other spirits in times of need.</description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</guid>
       <description>You have been studying at a college or university.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom  Proficiencies.
- Skills. Choose 1 of  Arcana History Linguistics Medicine Nature Religion Science Technology  Tools. None.
-  </description>
+ Skills. Choose 1 of  Arcana History Linguistics Medicine Nature Religion Science Technology   Tools. None.  </description>
     </item>
     
     <item>
       <title>Templar</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/templar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/templar/</guid>
       <description>The templar stands wrapped in armor ready to protect his allies with might and magic.
 Source. Arcane
 Role. Defense
@@ -221,24 +213,24 @@ Hit Die. d10
 Recoveries. 6
 Prerequisites. None.
 Proficiencies.
- Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools.</description>
+ Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society   Tools.</description>
     </item>
     
     <item>
       <title>Vagabond</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Wizard</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</guid>
       <description>Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible&amp;mdash;such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals.</description>
     </item>
     

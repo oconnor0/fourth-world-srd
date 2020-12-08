@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fourth World SRD</title>
-    <link>https://weeknightgames.github.io/fourth-world-srd/tags/</link>
+    <link>https://oconnor0.github.io/fourth-world-srd/tags/</link>
     <description>Recent content in Tags on Fourth World SRD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

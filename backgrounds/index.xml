@@ -1,97 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backgrounds on Fourth World SRD</title>
-    <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/</link>
+    <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/</link>
     <description>Recent content in Backgrounds on Fourth World SRD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/backgrounds/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/backgrounds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acolyte</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
       <description>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&amp;mdash;performing sacred rites is not the same thing as channeling divine power.
 Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service.</description>
     </item>
     
     <item>
       <title>Apprentice</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
       <description>You were apprenticed to a local craftsman.
 Ability Score Increase. Choose 1 of
  Strength Dexterity Intelligence  Proficiencies.
- Skills. None.
- Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies   </description>
+ Skills. None. Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies    </description>
     </item>
     
     <item>
       <title>Merchant</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/merchant/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Military</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/military/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Noble</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/noble/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</guid>
       <description>You come from aristocracy or nobility.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom Charisma  Proficiencies.
- Skills. Choose 1 of  Deception Diplomacy Intimidate Society  Tools. None.
-  </description>
+ Skills. Choose 1 of  Deception Diplomacy Intimidate Society   Tools. None.  </description>
     </item>
     
     <item>
       <title>Sailor</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/sailor/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/student/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</guid>
       <description>You have been studying at a college or university.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom  Proficiencies.
- Skills. Choose 1 of  Arcana History Linguistics Medicine Nature Religion Science Technology  Tools. None.
-  </description>
+ Skills. Choose 1 of  Arcana History Linguistics Medicine Nature Religion Science Technology   Tools. None.  </description>
     </item>
     
     <item>
       <title>Vagabond</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     

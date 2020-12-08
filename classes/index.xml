@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classes on Fourth World SRD</title>
-    <link>https://weeknightgames.github.io/fourth-world-srd/classes/</link>
+    <link>https://oconnor0.github.io/fourth-world-srd/classes/</link>
     <description>Recent content in Classes on Fourth World SRD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://weeknightgames.github.io/fourth-world-srd/classes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/classes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roboticist</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/roboticist/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</guid>
       <description>You make awesome robots.
 Source. Technological
 Role. Support
@@ -26,25 +22,24 @@ Hit Die. d8
 Recoveries. 4
 Prerequisites.
  Intelligence 13  Proficiencies.
- Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology  Tools. None.  Features.
- Technological Brilliance.</description>
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools. None.  Features.</description>
     </item>
     
     <item>
       <title>Shaman</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/shaman/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</guid>
       <description>While some heroes speak to gods or consort with otherworldly muses, shamans commune with the spirits of the world and the energies that exist in every living thing. These primal adventurers draw upon their power to shape the world and expand the influence of their spiritual patrons. Shamans have strong ties to natural spirits. They form powerful bonds with particular spirits, and as their power grows they learn to call upon other spirits in times of need.</description>
     </item>
     
     <item>
       <title>Templar</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/templar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/templar/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/templar/</guid>
       <description>The templar stands wrapped in armor ready to protect his allies with might and magic.
 Source. Arcane
 Role. Defense
@@ -55,15 +50,15 @@ Hit Die. d10
 Recoveries. 6
 Prerequisites. None.
 Proficiencies.
- Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor  Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society  Tools.</description>
+ Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society   Tools.</description>
     </item>
     
     <item>
       <title>Wizard</title>
-      <link>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://weeknightgames.github.io/fourth-world-srd/classes/wizard/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</guid>
       <description>Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible&amp;mdash;such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals.</description>
     </item>
     
