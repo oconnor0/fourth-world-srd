@@ -13,3 +13,8 @@ sidebarColor = "default"
 
 [blackfriday]
 fractions = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
