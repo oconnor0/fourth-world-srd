@@ -12,7 +12,7 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 **Key Ability Score.** Intelligence
 
-**Ability Score Increase.** Choose 1 of 
+**Ability Score Increase.** Choose 1 of
 
 - Dexterity
 - Intelligence
@@ -24,14 +24,14 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 **Recoveries.** 3
 
-**Prerequisites.** 
+**Prerequisites.**
 
 - Intelligence 13
 
 **Proficiencies.**
 
-- *Equipment.*  None. 
-- *Implements.* 
+- *Equipment.*  None.
+- *Implements.*
   - Orbs
   - Rods
   - Staves
@@ -46,7 +46,7 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
   - Religion
   - Science
   - Technology
-- *Tools.*  None. 
+- *Tools.*  None.
 
 
 **Features.**

@@ -48,9 +48,13 @@ System Reference Document. Copyright 2000, Wizards of the Coast, Inc.; Authors J
 
 System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
 
+? Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
+
 Pathfinder Roleplaying Game Reference Document. Copyright 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.
 
-Fourth World System Reference Document. Copyright 2018, Matthew O'Connor; Author: Matthew O'Connor.
+Pathfinder Core Rulebook (Second Edition). Copyright 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+
+Fourth World System Reference Document. Copyright 2018-2020, Matthew O'Connor; Author: Matthew O'Connor.
 
 END OF LICENSE
 

@@ -1,7 +1,7 @@
 ---
-title: "Arcane Attack Spells"
-anchor: "powers-arcane-attack-spells"
-weight: 800
+title: "Arcane Spells"
+anchor: "powers-arcane-spells"
+weight: 100
 ---
 
 - Plasmic Dart. *You send a magical dart streaking toward a creature that you can see.*
@@ -12,7 +12,7 @@ weight: 800
   - Target: 1/2/3 Creatures
   - Attack: Automatic Hit
   - Hit: 1d4 + 1 plasmic damage
-  - Miss: 
+  - Miss:
 - Plasmic Touch. *A touch from your hand, which glows with blue energy, blasts the target creature.*
   - Arcane, Attack, Spell, Melee, Touch, Plasmic
   - Level 0, Common
@@ -21,5 +21,14 @@ weight: 800
   - Target: 1 Creature
   - Attack: ATTR vs. Reflex
   - Hit: 1d8 + ATTR plasmic damage
-  - Miss: 
+  - Miss:
+- Shield. *Shield creates an invisible plasmic shield that hovers in front of you. Additionally you take no damage from Plasmic Dart.*
+  - Arcane, Utility, Spell, Implement, Plasmic
+  - Level 1, Common
+  - Time: 1 Action or 1 Reaction
+  - Range: Self
+  - Target:
+  - Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart
+  - Duration: Sustain 1 Action
+
 

@@ -24,3 +24,25 @@ weight: 1000
 - Diplomacy (Charisma)
 - Intimidation (Charisma)
 - Society (Charisma)
+
+- Engineering
+
+- Acrobatics 	Dexterity
+- Arcana 	Intelligence
+- Athletics Strength
+- Crafting Intelligence
+- Deception Charisma
+- Diplomacy Charisma
+- Intimidation Charisma
+- Lore Intelligence
+- Medicine 	Wisdom
+- Nature 	Wisdom
+- Occultism 	Intelligence
+- Performance 	Charisma
+- Religion 	Wisdom
+- Society 	Intelligence
+- Stealth 	Dexterity
+- Survival 	Wisdom
+- Thievery 	Dexterity
+
+- Perception Wisdom
