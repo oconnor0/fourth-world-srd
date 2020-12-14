@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://oconnor0.github.io/fourth-world-srd/powers/martial-exploits/</guid>
-      <description> Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:    </description>
+      <description>? Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.  Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:   Strike. Shot. Off-Hand Strike. Cleave. Or just spend combo points to make attacks?</description>
     </item>
     
     <item>
@@ -71,6 +71,25 @@ Choose a god, a pantheon of gods, or some other quasi-­divine being, and work w
 Ability Score Increase. Choose 1 of
  Strength Dexterity Intelligence  Proficiencies.
  Skills. None. Tools. Choose 1 of  Smith&amp;rsquo;s Tools Brewer&amp;rsquo;s Supplies    </description>
+    </item>
+    
+    <item>
+      <title>Fighter</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/fighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/fighter/</guid>
+      <description>You make awesome robots.
+Source. Martial
+Role. X
+Key Ability Score. Strength?
+Ability Score Increase. Choose 1 of
+ Dexterity Intelligence Wisdom  Alignment. Any
+Hit Die. d10
+Recoveries. 4
+Prerequisites.
+ Intelligence 13  Proficiencies.
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools. None.  Features.</description>
     </item>
     
     <item>
