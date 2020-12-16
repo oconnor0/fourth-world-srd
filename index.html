@@ -138,6 +138,14 @@
         
             
     <li>
+        <a href="#equipment">Equipment</a>
+    </li>
+
+
+
+        
+            
+    <li>
         <a href="#definitions">Definitions</a>
     </li>
 
@@ -164,7 +172,7 @@
     </div>
 
     <div class="version">
-            generated on Dec 14, 2020
+            generated on Dec 15, 2020
     </div>
 </div>
 
@@ -181,20 +189,25 @@
 <h2 id="design-goals">Design Goals</h2>
 <ul>
 <li>The version of D&amp;D 4e, D&amp;D 5e, PF 2e, and 13A that I would want to play.</li>
-<li>Temporary bonuses and penalties are dice (advantage/disadvantage). Permanent bonuses and penalties are +/- modifiers.</li>
+<li>Dynamic/Temporary bonuses and penalties are dice (advantage/disadvantage). Static/Permanent bonuses and penalties are +/- modifiers.</li>
 <li>You outscale monsters (so no bounded accuracy).</li>
 <li>Initial best bonus is +5 = + 0 (half Level) + 1 (Tier) + 3 or 4 (Ability Score Modifier).</li>
 <li>Final best bonus is +23 (or so) = + 10 (half Level) + 4 (Tier) + 6 (Modifier) + 3 (Item)</li>
 <li>Names are unique rather than reused. So no Levels and Spell Levels.</li>
 <li>Powers, spells, and abilities are powered via source/class specific points/Effort. Mana for Arcane, Grit for Martial, etc.</li>
+<li>Can only gain single bonus to stat? So +2 Vitality belt and +1 Vitality helmet don&rsquo;t stack?</li>
 </ul>
 <h2 id="open-questions">Open Questions</h2>
 <ul>
 <li>Is this going to be d20 or 2d10?</li>
 <li>Doubles or crit ranges (20, 19+, etc.)?</li>
-<li>How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings?</li>
+<li>How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings? No proficiency is same numeric but always at disadvantage?</li>
 <li>Rename ability scores? Strength vs Might.</li>
-<li>How to simplify action economy? Without being too simple. And without making unbreakable combos.</li>
+<li>How to simplify action economy? Without being too simple. And without making unbreakable combos.
+<ul>
+<li>Action Economy: Action, move, on your turn, instant.</li>
+</ul>
+</li>
 <li>Is Templar different than Fighter/Wizard? Do only base classes exist or also hybrid ones? Does dual classing exist to allow hybrid hybrids? Is there only 1 class per source? Is Fighter/Wizard the same as Wizard/Fighter?
 <ul>
 <li>Fighter (Martial)</li>
@@ -209,8 +222,48 @@
 </li>
 <li>Archetypes? Mighty, Swift? etc.</li>
 <li>Roles? Defender, Controller, Striker, Leader, etc.</li>
-<li>Action Economy</li>
-<li>How far does advantage go? 1? 2? 3? 4? Tier? Unbounded?</li>
+<li>How far does advantage go?
+<ul>
+<li>1? 2? 3? 4? Tier? Unbounded?</li>
+<li>Is advantage + dice? So advantage 1 is +d4, if increase, change to +d6, etc?</li>
+</ul>
+</li>
+<li>How to create character ability scores?
+<ul>
+<li>Roll 3d6?</li>
+<li>4d6 drop 1?</li>
+<li>Point buy?</li>
+<li>Arrays?</li>
+<li>Bonus from bloodline/race?</li>
+<li>Class?</li>
+<li>Archetype?</li>
+<li>Voluntary?</li>
+<li>What about?
+<ul>
+<li>Roll and assign 3d6.</li>
+<li>Replace 1 with 14?</li>
+<li>Bloodline gives +1 to X</li>
+<li>Class gives +1 to X</li>
+<li>Background gives +1 to X</li>
+<li>No starting score above 16? 17?</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>How do ability score advances go?
+<ul>
+<li>+2 to 1 or +1 to 2</li>
+<li>+2 to 2</li>
+<li>+1 to 2/3/4 *</li>
+<li>+1 to all *</li>
+<li>+2 (or +1 if 18 or above) to 4</li>
+<li>+1 to 3 and +1 to all (at tier 3 start?)</li>
+</ul>
+</li>
+<li>Save DCs</li>
+<li>Status effects</li>
+<li>Stop getting HD at level 10? and just get flat bonus to HP?</li>
+<li>HP is Vitality + HD, reroll all HD at level up, increase by at least 1 HP?</li>
 </ul>
 <h2 id="old-advancement-table">Old Advancement Table</h2>
 <div class="ritz">
@@ -917,7 +970,7 @@
         <a href="#classes-fighter">Fighter</a>
     </h1>
     <div class="content">
-        <p>You make awesome robots.</p>
+        <p>Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies.</p>
 <p><strong>Source.</strong> Martial</p>
 <p><strong>Role.</strong> X</p>
 <p><strong>Key Ability Score.</strong> Strength?</p>
@@ -932,7 +985,8 @@
 <p><strong>Recoveries.</strong> 4</p>
 <p><strong>Prerequisites.</strong></p>
 <ul>
-<li>Intelligence 13</li>
+<li>Strength 14</li>
+<li>Might 14 or Agility 14?</li>
 </ul>
 <p><strong>Proficiencies.</strong></p>
 <ul>
@@ -960,6 +1014,182 @@
 </li>
 <li><em>Tools.</em>  None.</li>
 </ul>
+<p><strong>Progression.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Hit Dice</th>
+<th>Ability Score Improvement</th>
+<th style="text-align:center">Exploits</th>
+<th style="text-align:center">Feats</th>
+<th>Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1d10</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td>Combo Points</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2d10</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>3d10</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>4d10</td>
+<td>Yes</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>5d10</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>6d10</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>7d10</td>
+<td>Yes</td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>8d10</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>9d10</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>10d10</td>
+<td>Yes</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>10d10+1</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>10d10+2</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>10d10+3</td>
+<td>Yes</td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>10d10+4</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>10d10+5</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>10d10+6</td>
+<td>Yes</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>10d10+7</td>
+<td></td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>10d10+8</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>10d10+9</td>
+<td>Yes</td>
+<td style="text-align:center">+1</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>10d10+10</td>
+<td></td>
+<td style="text-align:center"></td>
+<td style="text-align:center">+1</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Maybe way fewer feats? But if fewer then why all the levels?</p>
 <p><strong>Features.</strong></p>
 <ul>
 <li>
@@ -969,46 +1199,6 @@
 <p><em>Martial Strength.</em> You make Martial attacks using your Strength.</p>
 </li>
 </ul>
-<p><strong>Progression.</strong></p>
-<p>What other upgrades?</p>
-<ol>
-<li>Ability Score Increase (+1 to 3 ability scores). Select 1 Martial Exploit.</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Ability Score Increase (+1 to 3 ability scores).</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li></li>
-<li>Ability Score Increase (+1 to 3 ability scores). Select or upgrade 1 Martial Exploit.</li>
-<li></li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Ability Score Increase (+1 to 3 ability scores).</li>
-<li>Ability Score Increase (+1 to 3 ability scores). Select or upgrade 1 Martial Exploit.</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Ability Score Increase (+1 to 3 ability scores).</li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li></li>
-<li>Ability Score Increase (+1 to 3 ability scores). Select or upgrade 1 Martial Exploit.</li>
-<li></li>
-<li>Select or upgrade 1 Martial Exploit.</li>
-<li>Ability Score Increase (+1 to 3 ability scores).</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th>Level</th>
-<th>Ability Score Improvement</th>
-<th>Progression</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>+ 3 to 4</td>
-<td>None</td>
-</tr>
-</tbody>
-</table>
 
     </div>
 </section>
@@ -1367,8 +1557,11 @@ Choose 1 of</p>
     <div class="content">
         <p>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&mdash;performing sacred rites is not the same thing as channeling divine power.</p>
 <p>Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.</p>
+<p><code>- Or -</code></p>
+<p>You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or because you cast away the teachings of your faith, but deep down you’ll always carry within you the lessons you learned.</p>
 <p><strong>Ability Score Increase.</strong> Choose 1 of</p>
 <ul>
+<li>Intelligence</li>
 <li>Wisdom</li>
 <li>Charisma</li>
 </ul>
@@ -1590,6 +1783,9 @@ Choose 1 of</p>
 </li>
 <li>
 <p>Society (Charisma)</p>
+</li>
+<li>
+<p>Engineering</p>
 </li>
 <li>
 <p>Acrobatics 	Dexterity</p>
@@ -1943,7 +2139,14 @@ Choose 1 of</p>
         <a href="#powers-divine-prayers">Divine Prayers</a>
     </h1>
     <div class="content">
-        <ul>
+        <p>Focus on buffs, debuffs, defense, protection, healing, divination, truth, reality vs direct damage, illusion, etc. Support and social rather than combat; in general.
+Where do rituals show up?</p>
+<h2 id="prayer-list">Prayer List</h2>
+<ul>
+<li>Augury</li>
+<li>Bane</li>
+<li>Banish</li>
+<li>Beacon</li>
 <li>Bless. <em>You bless the actions of one you touch, aiding their goals.</em>
 <ul>
 <li>Divine, Utility, Spell, Touch</li>
@@ -1954,7 +2157,7 @@ Choose 1 of</p>
 <li>Range: Touch</li>
 <li>Target: 1 Creature</li>
 <li>Effect: The creature gains a pool of 1 + your Tier d4 dice. After making an attack roll or skill roll, but before finding out the result, the player may add 1 dice to the roll.</li>
-<li>Upgrades:
+<li>Feats:
 <ul>
 <li>More Powerful:
 <ul>
@@ -1983,6 +2186,114 @@ Choose 1 of</p>
 </li>
 </ul>
 </li>
+<li>Calm</li>
+<li>Circle of X</li>
+<li>Cleanse</li>
+<li>Cure</li>
+<li>Dawn/Daylight/Glow/</li>
+<li>Detection</li>
+<li>Despair/Fatigue/Debilitate/Cripple</li>
+<li>Dispel</li>
+<li>Dominate</li>
+<li>Doom</li>
+<li>Enflame</li>
+<li>Famine</li>
+<li>Farsight
+<ul>
+<li>As an action, spend a Bond Point, while sustained for the next X, you may peer through a point your physical eyes could see.</li>
+<li>Feats:
+<ul>
+<li>Scrying
+<ul>
+<li>You may view a location anywhere on the planet instead of anywhere within your normal line of sight.</li>
+</ul>
+</li>
+<li>Pierce The Veil
+<ul>
+<li>You may view the physical and the spiritual simultaneously.</li>
+</ul>
+</li>
+<li>Y
+<ul>
+<li>With something connecting you to the target, you may determine the location of a creature or item and thus observe that location.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Snack/Meal/Feast</li>
+<li>Forbiddance</li>
+<li>Guardian</li>
+<li>Guidance
+<ul>
+<li>Bonus on attack rolls?</li>
+</ul>
+</li>
+<li>Hallow</li>
+<li>Harm</li>
+<li>Heal
+<ul>
+<li>As an action, spend a Bond Point, a creature you see within 20' may spend a recovery.</li>
+<li>Feats:
+<ul>
+<li>Quick Cast:
+<ul>
+<li>You may cast this spell once on your turn instead of spending an action.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Hope
+<ul>
+<li>Bonus on saves?</li>
+</ul>
+</li>
+<li>Inspire</li>
+<li>Lifelink</li>
+<li>Locate</li>
+<li>Malfeasance</li>
+<li>Nightfall/Darkness/Darkfall/Dusk</li>
+<li>Plague</li>
+<li>Protection</li>
+<li>Purge</li>
+<li>Purify</li>
+<li>Raise</li>
+<li>Rebuke/Turn Undead</li>
+<li>Restore/Restoration</li>
+<li>Sanctuary</li>
+<li>Sear</li>
+<li>Shield</li>
+<li>Silence</li>
+<li>Smite
+<ul>
+<li>Once per turn (once on your turn?), spend a Bond Point to infuse a weapon you wield with divine energy. The next time that weapon hits with an attack, deal an extra d8 radiant (only?) damage.</li>
+</ul>
+</li>
+<li>Strengthen
+<ul>
+<li>Bonus on X skill checks?</li>
+</ul>
+</li>
+<li>Summon?/Convoke/Conjure/Call/Beckon/Moot</li>
+<li>Warding</li>
+<li>Zone of Truth</li>
+</ul>
+<h2 id="feat-list">Feat List</h2>
+<p>These may be applied to specific</p>
+<ul>
+<li>Lengthen
+<ul>
+<li>Increase the range of the spell to the next bracket: Touch, 20', 50', 100', 250', 500', 1000'.</li>
+</ul>
+</li>
+<li>Quicken
+<ul>
+<li>When you begin casting this spell, you may increase its point cost by 1 to cast in one faster bracket: 8 hours, 1 hour, 10 minutes, 1 minute, 1 action, once per turn, instant.</li>
+</ul>
+</li>
 </ul>
 
     </div>
@@ -1994,7 +2305,9 @@ Choose 1 of</p>
         <a href="#powers-martial-exploits">Martial Exploits</a>
     </h1>
     <div class="content">
-        <ul>
+        <p>How in the world do feats work here? What is there to upgrade?</p>
+<p>How to differentiate block, dodge, and parry?</p>
+<ul>
 <li>
 <p>? Double Strike. <em>After a quick attack from your main-hand weapon, you make another with your off-hand weapon.</em></p>
 <ul>
@@ -2009,22 +2322,34 @@ Choose 1 of</p>
 </ul>
 </li>
 <li>
-<p>Strike.</p>
-</li>
-<li>
-<p>Shot.</p>
-</li>
-<li>
-<p>Off-Hand Strike.</p>
-</li>
-<li>
-<p>Cleave.</p>
-</li>
-<li>
 <p>Or just spend combo points to make attacks?</p>
 </li>
 <li>
 <p>Inflict banes?</p>
+</li>
+<li>
+<p>Trip</p>
+</li>
+<li>
+<p>Grapple</p>
+</li>
+<li>
+<p>Stun</p>
+</li>
+<li>
+<p>Terrorize</p>
+</li>
+<li>
+<p>Disarm</p>
+</li>
+<li>
+<p>Weaken</p>
+</li>
+<li>
+<p>Confuse</p>
+</li>
+<li>
+<p>Intimidate</p>
 </li>
 <li>
 <p>Strike</p>
@@ -2033,6 +2358,7 @@ Choose 1 of</p>
 <li>Target: 1 creature or object within melee range</li>
 <li>Attack: STR vs AC</li>
 <li>Hit: WPN + STR damage</li>
+<li>As an action, make a melee attack, rolling MIGHT vs AC, dealing WPN + MIGHT damage on a hit, and MIGHT damage on a miss.</li>
 </ul>
 </li>
 <li>
@@ -2042,13 +2368,84 @@ Choose 1 of</p>
 <li>Target: 1 creature or object within weapon range</li>
 <li>Attack: DEX vs AC</li>
 <li>Hit: WPN damage</li>
+<li>As an action, make a ranged attack, rolling AGILITY vs AC, and dealing WPN damage on a hit.</li>
 </ul>
 </li>
-<li>
-<p>Rising Tide</p>
+</ul>
+<dl>
+<dt><strong>Aim</strong></dt>
+<dd>Sacrifice your movement. Make the first ranged attack that turn with advantage.</dd>
+</dl>
+<ul>
+<li>Aim
+<ul>
+<li>Sacrifice your movement. Make the first ranged attack that turn with advantage.</li>
+</ul>
+</li>
+<li>Beat Back
+<ul>
+<li>Once per turn, after hitting with a melee attack, spend a Combo Point to push the target 5' away from you and to maneuver 5'.</li>
+</ul>
+</li>
+<li>Block
+<ul>
+<li>Once per turn, spend a Combo Point to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</li>
+</ul>
+</li>
+<li>Bloodlust
+<ul>
+<li>Once per round, when an enemy deals damage to you with an attack, regain a Combo Point.</li>
+</ul>
+</li>
+<li>Charge
+<ul>
+<li>As an action, move up to your speed and make an attack with disadvantage.</li>
+</ul>
+</li>
+<li>Cleave
+<ul>
+<li>Once per turn, when you defeat a foe, spend a Combo Point to make another attack/Strike.</li>
+</ul>
+</li>
+<li>Dodge
+<ul>
+<li>Once per turn, spend a Combo Point to dodge out of the way of an attack, forcing your enemy to reroll its attack against you with disadvantage and maneuvering 5'.</li>
+</ul>
+</li>
+<li>Goad
+<ul>
+<li>Once per turn, spend a Combo Point after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</li>
+</ul>
+</li>
+<li>Intercept
+<ul>
+<li>Once per turn, spend a Combo Point to make a full advance/movement toward a moving enemy within your movement range.</li>
+</ul>
+</li>
+<li>Off-hand Strike
+<ul>
+<li>Once per turn, when you hit with a melee weapon held in your main hand, spend a Combo Point to make an attack with the weapon in your off hand.</li>
+</ul>
+</li>
+<li>Parry
+<ul>
+<li>Once per turn, spend a Combo Point to parry with your melee weapon, forcing your enemy to reroll its melee attack against you with disadvantage.</li>
+</ul>
+</li>
+<li>Power Attack
+<ul>
+<li>Make your attack roll with disadvantage. If you hit, deal an additional WPN + STR damage.</li>
+</ul>
+</li>
+<li>Riposte
+<ul>
+<li>Once per turn, spend a Combo Point to make an attack at a target that just attacked you.</li>
+</ul>
+</li>
+<li>Rising Tide
 <ul>
 <li>Once per round, regain a Combo Point when you defeat a foe.</li>
-<li>Upgrades:
+<li>Feats:
 <ul>
 <li>Endless Tide
 <ul>
@@ -2059,82 +2456,24 @@ Choose 1 of</p>
 </li>
 </ul>
 </li>
-<li>
-<p>Cleave</p>
-<ul>
-<li>Once per turn, when you defeat a foe, spend a Combo Point to make another attack/Strike.</li>
-</ul>
-</li>
-<li>
-<p>Off-hand Strike</p>
-<ul>
-<li>Once per turn, when you hit with a melee weapon held in your main hand, spend a Combo Point to make an attack with the weapon in your off hand.</li>
-</ul>
-</li>
-<li>
-<p>Intercept</p>
-<ul>
-<li>Once per turn, spend a Combo Point to make a full advance/movement toward a moving enemy within your movement range.</li>
-</ul>
-</li>
-<li>
-<p>Parry</p>
-<ul>
-<li>Once per turn, spend a Combo Point to parry with your weap, forcing your enemy to reroll its melee attack against you with disadvantage.</li>
-</ul>
-</li>
-<li>
-<p>Block</p>
-<ul>
-<li>Once per turn, spend a Combo Point to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</li>
-</ul>
-</li>
-<li>
-<p>Dodge</p>
-<ul>
-<li>Once per turn, spend a Combo Point to dodge out of the way of an attack, forcing your enemy to reroll its attack against you with disadvantage and maneuvering 5'.</li>
-</ul>
-</li>
-<li>
-<p>Riposte</p>
-<ul>
-<li>Once per turn, spend a Combo Point to make an attack at a target that just attacked you.</li>
-</ul>
-</li>
-<li>
-<p>Beat Back</p>
-<ul>
-<li>Once per turn, after hitting with a melee attack, spend a Combo Point to push the target 5' away from you and to maneuver 5'.</li>
-</ul>
-</li>
-<li>
-<p>Side Step</p>
+<li>Side Step
 <ul>
 <li>Once per turn, spend a Combo Point to maneuver 5'.</li>
 </ul>
 </li>
-<li>
-<p>Smite</p>
+<li>Smite
 <ul>
 <li>Once per turn, spend a Combo Point to roll a number of additional WPN dice equal to your Tier.</li>
 </ul>
 </li>
-<li>
-<p>Goad</p>
+<li>Volley
 <ul>
-<li>Once per turn, spend a Combo Point after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</li>
+<li>As an action, spend a Combo Point, specify a 10'-diameter circle in your weapon range and make a ranged attack with disadvantage against creature therein.</li>
 </ul>
 </li>
-<li>
-<p>Power Strike</p>
+<li>Whirlwind
 <ul>
-<li>Make your attack roll with disadvantage. If you hit, deal an additional WPN + STR damage.</li>
-</ul>
-</li>
-<li>
-<p>Aim</p>
-<ul>
-<li>Sacrifice your movement. Make the first ranged attack that turn with advantage.</li>
+<li>As an action, spend a Combo Point and make a melee attack with disadvantage against every creature in weapon range.</li>
 </ul>
 </li>
 </ul>
@@ -2222,6 +2561,7 @@ Choose 1 of</p>
 <li>Ignite.</li>
 <li>Envenom.</li>
 <li>Irradiate.</li>
+<li></li>
 </ul>
 
     </div>
@@ -2239,6 +2579,41 @@ Choose 1 of</p>
 
             
     
+
+
+
+        
+            
+    <section class="page" id="equipment">
+    <h1>
+        <a href="#equipment">Equipment</a>
+    </h1>
+    <div class="content">
+        <ul>
+<li>Rarity - Common, uncommon, rare, unique</li>
+<li>Coin - Copper, silver, gold, ?, gems</li>
+</ul>
+<h2 id="weapons">Weapons</h2>
+<h2 id="armor">Armor</h2>
+<h2 id="gear">Gear</h2>
+<h2 id="consumables">Consumables</h2>
+<h2 id="magic-items">Magic Items</h2>
+<ul>
+<li>Belt of Sobriety. <em>A woven silver belt with a single brilliantly-cut amethyst at the clasp.</em>
+<ul>
+<li>Expensive</li>
+<li>Attuned?</li>
+<li>Magical</li>
+<li>Rare</li>
+<li>While wearing this belt, the wearer gains +2 to his Constitution/Vitality ability score and suffers no ill effects from intoxication.</li>
+</ul>
+</li>
+</ul>
+<h2 id="artifacts">Artifacts</h2>
+
+    </div>
+</section>
+
 
 
 
@@ -2391,7 +2766,9 @@ Choose 1 of</p>
 <p>Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.</p>
 <p>System Reference Document. Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.</p>
 <p>System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.</p>
+<p>? Pathfinder Roleplaying Game Core Rulebook. Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.</p>
 <p>Pathfinder Roleplaying Game Reference Document. Copyright 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.</p>
+<p>Pathfinder Core Rulebook (Second Edition). Copyright 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.</p>
 <p>Fourth World System Reference Document. Copyright 2018-2020, Matthew O&rsquo;Connor; Author: Matthew O&rsquo;Connor.</p>
 <p>END OF LICENSE</p>
 
