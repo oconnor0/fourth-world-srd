@@ -172,7 +172,7 @@
     </div>
 
     <div class="version">
-            generated on Dec 16, 2020
+            generated on Dec 17, 2020
     </div>
 </div>
 
@@ -201,7 +201,7 @@
 <ul>
 <li>Is this going to be d20 or 2d10?</li>
 <li>Doubles or crit ranges (20, 19+, etc.)?</li>
-<li>How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings? No proficiency is same numeric but always at disadvantage?</li>
+<li>How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings? No proficiency is same numeric but always at disadvantage? Proficiency starts at -1 and then training adds +Tier?</li>
 <li>Rename ability scores? Strength vs Might.</li>
 <li>How to simplify action economy? Without being too simple. And without making unbreakable combos.
 <ul>
@@ -972,47 +972,57 @@
     <div class="content">
         <p>Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies.</p>
 <p><strong>Source.</strong> Martial</p>
-<p><strong>Role.</strong> X</p>
-<p><strong>Ability Score Increase.</strong> Choose 1 of</p>
-<ul>
-<li>Dexterity</li>
-<li>Intelligence</li>
-<li>Wisdom</li>
-</ul>
-<p>+1 to Might, Agility, Vitality, and Discernment</p>
+<p><strong>Role.</strong> Defender or Striker?</p>
 <p><strong>Alignment.</strong> Any</p>
 <p><strong>Hit Die.</strong> d10</p>
 <p><strong>Recoveries.</strong> 4</p>
-<p><strong>Prerequisites.</strong></p>
+<p><strong>Prerequisites?</strong></p>
 <ul>
-<li>Strength 14</li>
 <li>Might 14 or Agility 14?</li>
+</ul>
+<p><strong>Martial Save DC</strong></p>
+<ul>
+<li>8 + higher of Might and Agility score + half Level + ? Tier?</li>
 </ul>
 <p><strong>Proficiencies.</strong></p>
 <ul>
+<li><em>Defenses.</em>
+<ul>
+<li>AC</li>
+<li>Physical or Evasion</li>
+</ul>
+</li>
+<li><em>Damage.</em>
+<ul>
+<li>Melee or Ranged Damage Rolls?</li>
+</ul>
+</li>
 <li><em>Equipment.</em>
 <ul>
-<li>Simple Weapons</li>
-<li>Light Armor</li>
-<li>Medium Armor</li>
-<li>Heavy Armor</li>
+<li>All weapons. (Or simple and war?)</li>
+<li>All armor and shields.</li>
 </ul>
 </li>
 <li><em>Implements.</em>  None.</li>
-<li><em>Skills.</em> Choose 3 of
+<li><em>Skills.</em>
 <ul>
-<li>Arcana</li>
+<li>Combat</li>
+<li>Three of
+<ul>
 <li>Athletics</li>
-<li>Endurance</li>
-<li>Medicine</li>
-<li>Nature</li>
-<li>Religion</li>
-<li>Science</li>
-<li>Survival</li>
-<li>Technology</li>
+<li>Acrobatics</li>
+<li>Intimidation</li>
+<li>Survival/Nature</li>
+<li>Streetwise/Society?</li>
+<li>Dungeoneering?</li>
+</ul>
+</li>
+<li>Or</li>
+<li>Combat and three others.</li>
 </ul>
 </li>
 <li><em>Tools.</em>  None.</li>
+<li><em>Save DC.</em> Martial Save DC.</li>
 </ul>
 <p><strong>Progression.</strong></p>
 <table>
@@ -1030,7 +1040,7 @@
 <tr>
 <td>1</td>
 <td>1d10</td>
-<td></td>
+<td>+1 to Might or Agility and two others</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td>Combo Points</td>
@@ -1046,7 +1056,7 @@
 <tr>
 <td>3</td>
 <td>3d10</td>
-<td></td>
+<td>+1 to three</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td></td>
@@ -1054,7 +1064,7 @@
 <tr>
 <td>4</td>
 <td>4d10</td>
-<td>Yes</td>
+<td></td>
 <td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
@@ -1070,7 +1080,7 @@
 <tr>
 <td>6</td>
 <td>6d10</td>
-<td></td>
+<td>+1 to three</td>
 <td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
@@ -1078,7 +1088,7 @@
 <tr>
 <td>7</td>
 <td>7d10</td>
-<td>Yes</td>
+<td></td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td></td>
@@ -1094,7 +1104,7 @@
 <tr>
 <td>9</td>
 <td>9d10</td>
-<td></td>
+<td>+1 to three</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td></td>
@@ -1102,7 +1112,7 @@
 <tr>
 <td>10</td>
 <td>10d10</td>
-<td>Yes</td>
+<td></td>
 <td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
@@ -1110,10 +1120,10 @@
 <tr>
 <td>11</td>
 <td>10d10+1</td>
-<td></td>
+<td>+1 to all</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
-<td></td>
+<td>Second Action</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1126,7 +1136,7 @@
 <tr>
 <td>13</td>
 <td>10d10+3</td>
-<td>Yes</td>
+<td>+1 to three</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td></td>
@@ -1150,7 +1160,7 @@
 <tr>
 <td>16</td>
 <td>10d10+6</td>
-<td>Yes</td>
+<td>+1 to three</td>
 <td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
@@ -1174,7 +1184,7 @@
 <tr>
 <td>19</td>
 <td>10d10+9</td>
-<td>Yes</td>
+<td>+1 to three</td>
 <td style="text-align:center">+1</td>
 <td style="text-align:center"></td>
 <td></td>
@@ -1192,15 +1202,16 @@
 <p>Maybe way fewer feats? But if fewer then why all the levels? Are exploits and their upgrades both just feats? Like PF2e.
 Bonus damage? Bonus dice? +Level to weapon damage rolls? Shock?
 HP includes Vitality modifier per Level? Or Vitality score per Tier.
-Fighter gets only Exploits but can trade an Exploit for a Feat?</p>
+Fighter gets only Exploits but can trade an Exploit for a Feat?
+How do features interact with the rest of it all?</p>
 <p><strong>Features.</strong></p>
 <ul>
-<li>
-<p><em>Combo Points.</em> You gain 3 Combo Points that you can use to fuel powerful martial exploits. Any spent points refresh during a short or long rest.</p>
-</li>
-<li>
-<p><em>Martial Strength.</em> You make Martial attacks using your Strength.</p>
-</li>
+<li><em>Combo Points.</em> You gain 3 Combo Points that you can use to fuel powerful martial exploits. Any spent points refresh during a short or long rest.</li>
+<li><em>? Martial Strength.</em> You make Martial attacks using your Strength.</li>
+</ul>
+<p><strong>Level 11.</strong></p>
+<ul>
+<li><em>Second Action.</em> You gain a second action on each of your turns.</li>
 </ul>
 
     </div>
@@ -1559,7 +1570,7 @@ Choose 1 of</p>
     </h1>
     <div class="content">
         <p>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&mdash;performing sacred rites is not the same thing as channeling divine power.</p>
-<p>Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.</p>
+<p>Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.</p>
 <p><code>- Or -</code></p>
 <p>You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or because you cast away the teachings of your faith, but deep down you’ll always carry within you the lessons you learned.</p>
 <p><strong>Ability Score Increase.</strong> Choose 1 of</p>
@@ -2308,7 +2319,7 @@ Where do rituals show up?</p>
 </li>
 <li>Silence
 <ul>
-<li>As an Action, spend a Bond Point. A creature you see within 20' makes a Mental save. On a failure, that creature cannot speak. On a success, that creation can only whisper this round. The creature may make a new Mental save on its turn each round after the first.</li>
+<li>As an Action, spend a Bond Point. A creature you see within 20' makes a Mental save. On a failure, that creature cannot speak. On a success, that creation can only whisper this round. Mental save ends.</li>
 </ul>
 </li>
 <li>Smite
@@ -2352,103 +2363,21 @@ Where do rituals show up?</p>
         <p>How in the world do feats work here? What is there to upgrade?</p>
 <p>How to differentiate block, dodge, and parry?</p>
 <p>Crits/doubles/failure/miss/other triggers</p>
-<ul>
-<li>
-<p>? Double Strike. <em>After a quick attack from your main-hand weapon, you make another with your off-hand weapon.</em></p>
-<ul>
-<li>Martial, Weapon, Deed, Melee, Attack</li>
-<li>Level 0/2, Common</li>
-<li>Time: 1 Action</li>
-<li>Range: Melee weapons (main-hand and off-hand)</li>
-<li>Target: 1 or 2 creatures</li>
-<li>Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon)</li>
-<li>Hit: WPN/2WPN damage</li>
-<li>Miss:</li>
-</ul>
-</li>
-<li>
-<p>Or just spend combo points to make attacks?</p>
-</li>
-<li>
-<p>Inflict banes?</p>
-</li>
-<li>
-<p>Trip</p>
-</li>
-<li>
-<p>Grapple</p>
-</li>
-<li>
-<p>Stun</p>
-</li>
-<li>
-<p>Daze</p>
-</li>
-<li>
-<p>Terrorize/Intimidate</p>
-</li>
-<li>
-<p>Disarm</p>
-</li>
-<li>
-<p>Weaken</p>
-</li>
-<li>
-<p>Confuse</p>
-</li>
-<li>
-<p>Knockdown</p>
-</li>
-<li>
-<p>Slow</p>
-</li>
-<li>
-<p>Root</p>
-</li>
-<li>
-<p>Strike</p>
-<ul>
-<li>Action: 1</li>
-<li>Target: 1 creature or object within melee range</li>
-<li>Attack: MIGHT vs AC</li>
-<li>Hit: WEAPON + MIGHT damage</li>
-<li>As an action, make a melee attack, rolling MIGHT vs AC, dealing WEAPON + MIGHT damage on a hit, and MIGHT damage on a miss.</li>
-</ul>
-</li>
-<li>
-<p>Shot</p>
-<ul>
-<li>Action: 1</li>
-<li>Target: 1 creature or object within weapon range</li>
-<li>Attack: AGILITY vs AC</li>
-<li>Hit: WPN damage</li>
-<li>As an action, make a ranged attack, rolling AGILITY vs AC, and dealing WPN damage on a hit.</li>
-</ul>
-</li>
-</ul>
+<p>Weaken?</p>
 <dl>
+<dt><strong>Strike</strong></dt>
+<dd>As an action, make a melee attack against a target you engage (rolling MIGHT vs AC, dealing WEAPON + MIGHT damage on a hit, and MIGHT damage on a miss).</dd>
+<dt><strong>Shot</strong></dt>
+<dd>As an action, make a ranged attack against a target in your weapon range (rolling AGILITY vs AC, and dealing WPN damage on a hit).</dd>
 <dt><strong>Aim</strong></dt>
 <dd>Sacrifice your movement. Make the first ranged attack this turn with advantage.</dd>
-</dl>
+<dt><strong>Beat Back</strong></dt>
+<dd>Once per turn, after hitting with a melee attack, spend a Combo Point to push the target 5' away from you and to maneuver 5'.</dd>
+<dt><strong>Block</strong></dt>
+<dd>Once per turn, spend a Combo Point to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</dd>
+<dt><strong>Bloodthirst</strong></dt>
+<dd>The first time during a combat that you become Winded, regain a Combo Point.
 <ul>
-<li>Aim
-<ul>
-<li>Sacrifice your movement. Make the first ranged attack this turn with advantage.</li>
-</ul>
-</li>
-<li>Beat Back
-<ul>
-<li>Once per turn, after hitting with a melee attack, spend a Combo Point to push the target 5' away from you and to maneuver 5'.</li>
-</ul>
-</li>
-<li>Block
-<ul>
-<li>Once per turn, spend a Combo Point to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</li>
-</ul>
-</li>
-<li>Bloodthirst
-<ul>
-<li>The first time during a combat that you become Winded, regain a Combo Point.</li>
 <li>Feats:
 <ul>
 <li>Bloodlust
@@ -2459,65 +2388,50 @@ Where do rituals show up?</p>
 </ul>
 </li>
 </ul>
-</li>
-<li>Charge
+</dd>
+<dt><strong>Charge</strong></dt>
+<dd>As an action, move up to your speed and make an attack with disadvantage.</dd>
+<dt><strong>Cleave</strong></dt>
+<dd>Once per turn, when you defeat a foe, spend a Combo Point to make another attack/Strike.</dd>
+<dt><strong>Clobber</strong></dt>
+<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Physical save. On a failure, the target is dazed. (A dazed target cannot act.) Physical save ends.
 <ul>
-<li>As an action, move up to your speed and make an attack with disadvantage.</li>
+<li>Feats:
+<ul>
+<li>What A Stunner.
+<ul>
+<li>On a failure, the target is stunned. (A stunned target cannot act, attacks against them have advantage, and its Evasion saves have disadvantage.)</li>
 </ul>
 </li>
-<li>Cleave
-<ul>
-<li>Once per turn, when you defeat a foe, spend a Combo Point to make another attack/Strike.</li>
 </ul>
 </li>
-<li>Crescendo
-<ul>
-<li>Once per turn, you may exchange/spend Doubles/Crit on a weapon hit for a Combo Point.</li>
 </ul>
-</li>
-<li>Dodge
+</dd>
+<dt><strong>Crescendo</strong></dt>
+<dd>Once per turn, you may exchange/spend Doubles/Crit on a weapon hit for a Combo Point.</dd>
+<dt><strong>Disarm</strong></dt>
+<dd>As an action, spend a Combo Point and make an attack.  On a hit, the target makes an Evasion save. On a failure, the target drops a weapon of your choice.</dd>
+<dt><strong>Dodge</strong></dt>
+<dd>Once per turn, spend a Combo Point to dodge out of the way of an attack, maneuvering 5' and forcing your enemy to reroll its attack against you.</dd>
+<dt><strong>Goad</strong></dt>
+<dd>Once per turn, spend a Combo Point after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</dd>
+<dt><strong>Hamstring</strong></dt>
+<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Evasion save. On a failure, the target cannot maneuver and cannot move more than 5' per round. Physical save ends.</dd>
+<dt><strong>Intercept</strong></dt>
+<dd>Once per turn, spend a Combo Point to make a full advance/movement toward a moving enemy within your movement range.</dd>
+<dt><strong>Magekiller</strong></dt>
+<dd>You may make Opportunity Attacks when an enemy you engage casts a spell.</dd>
+<dt><strong>Off-hand Strike</strong></dt>
+<dd>Once per turn, when you hit with a melee weapon held in your main hand, spend a Combo Point to make an attack with the weapon in your off hand.</dd>
+<dt><strong>Onslaught</strong></dt>
+<dd>Once per turn, when you score a critical hit/hit with double, you may make an additional attack/spend the crit to make an additional attack.</dd>
+<dt><strong>Parry</strong></dt>
+<dd>Once per turn, spend a Combo Point to parry with your melee weapon, forcing your enemy to reroll its melee attack against you with disadvantage.</dd>
+<dt><strong>Power Attack</strong></dt>
+<dd>When making a melee attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + MIGHT damage.</dd>
+<dt><strong>Precision</strong></dt>
+<dd>When making an attack, spend a Combo Point to roll with advantage.
 <ul>
-<li>Once per turn, spend a Combo Point to dodge out of the way of an attack, maneuvering 5' and forcing your enemy to reroll its attack against you.</li>
-</ul>
-</li>
-<li>Goad
-<ul>
-<li>Once per turn, spend a Combo Point after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</li>
-</ul>
-</li>
-<li>Intercept
-<ul>
-<li>Once per turn, spend a Combo Point to make a full advance/movement toward a moving enemy within your movement range.</li>
-</ul>
-</li>
-<li>Magekiller
-<ul>
-<li>You may make Opportunity Attacks when an enemy you engage casts a spell.</li>
-</ul>
-</li>
-<li>Off-hand Strike
-<ul>
-<li>Once per turn, when you hit with a melee weapon held in your main hand, spend a Combo Point to make an attack with the weapon in your off hand.</li>
-</ul>
-</li>
-<li>Onslaught
-<ul>
-<li>Once per turn, when you score a critical hit/hit with double, you may make an additional attack/spend the crit to make an additional attack.</li>
-</ul>
-</li>
-<li>Parry
-<ul>
-<li>Once per turn, spend a Combo Point to parry with your melee weapon, forcing your enemy to reroll its melee attack against you with disadvantage.</li>
-</ul>
-</li>
-<li>Power Attack
-<ul>
-<li>When making a melee attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + MIGHT damage.</li>
-</ul>
-</li>
-<li>Precision
-<ul>
-<li>When making an attack, spend a Combo Point to roll with advantage.</li>
 <li>Feats:
 <ul>
 <li>Boost
@@ -2528,15 +2442,12 @@ Where do rituals show up?</p>
 </ul>
 </li>
 </ul>
-</li>
-<li>Riposte
+</dd>
+<dt><strong>Riposte</strong></dt>
+<dd>Once per turn, spend a Combo Point to make an attack at a target that just attacked you.</dd>
+<dt><strong>Rising Tide</strong></dt>
+<dd>Once per round, regain a Combo Point when you defeat a foe.
 <ul>
-<li>Once per turn, spend a Combo Point to make an attack at a target that just attacked you.</li>
-</ul>
-</li>
-<li>Rising Tide
-<ul>
-<li>Once per round, regain a Combo Point when you defeat a foe.</li>
 <li>Feats:
 <ul>
 <li>Endless Tide
@@ -2547,43 +2458,42 @@ Where do rituals show up?</p>
 </ul>
 </li>
 </ul>
-</li>
-<li>Second Wind
+</dd>
+<dt><strong>Second Wind</strong></dt>
+<dd>Once per long rest/short rest/encounter, you may spend a recovery.</dd>
+<dt><strong>Sharpshooter</strong>/<strong>Deadshot</strong></dt>
+<dd>When making a ranged attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + AGILITY damage.</dd>
+<dt><strong>Sniper</strong></dt>
+<dd>You do not suffer disadvantage on ranged attacks at distant targets.</dd>
+<dt><strong>Side Step</strong></dt>
+<dd>Once per turn, spend a Combo Point to maneuver 5'.</dd>
+<dt><strong>Smite?</strong></dt>
+<dd>Once per turn, spend a Combo Point to roll a number of additional WEAPON dice equal to your Tier.</dd>
+<dt><strong>Terrify</strong></dt>
+<dd>Once on your turn, spend a Combo Point. An enemy who can see and hear you within 30' makes a Mental save. On a failure, the target is frightened. Mental save ends.
 <ul>
-<li>Once per long rest/short rest/encounter, you may spend a recovery.</li>
-</ul>
-</li>
-<li>Sharpshooter
+<li>Feats:
 <ul>
-<li>When making a ranged attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + AGILITY damage.</li>
-</ul>
-</li>
-<li>Sniper
+<li>Bellow
 <ul>
-<li>You do not suffer disadvantage on ranged attacks at distant targets.</li>
-</ul>
-</li>
-<li>Side Step
-<ul>
-<li>Once per turn, spend a Combo Point to maneuver 5'.</li>
-</ul>
-</li>
-<li>Smite?
-<ul>
-<li>Once per turn, spend a Combo Point to roll a number of additional WEAPON dice equal to your Tier.</li>
-</ul>
-</li>
-<li>Volley
-<ul>
-<li>As an action, spend a Combo Point, specify a 10'-diameter circle in your weapon range and make a ranged attack with disadvantage against creature therein.</li>
-</ul>
-</li>
-<li>Whirlwind
-<ul>
-<li>As an action, spend a Combo Point and make a melee attack with disadvantage against every creature in weapon range.</li>
+<li>When you Terrify, each enemy within 30' makes a Mental save.</li>
 </ul>
 </li>
 </ul>
+</li>
+</ul>
+</dd>
+<dt><strong>Trip</strong></dt>
+<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Physical save. On a failure, the target is knocked prone.</dd>
+<dt><strong>Up And Personal</strong></dt>
+<dd>You do not suffer disadvantage on ranged attacks while engaged in melee.</dd>
+<dt><strong>Volley</strong></dt>
+<dd>As an action, spend a Combo Point, specify a 10'-diameter circle in your weapon range and make a ranged attack with disadvantage against creature therein.</dd>
+<dt><strong>Whirlwind</strong></dt>
+<dd>As an action, spend a Combo Point and make a melee attack with disadvantage against every creature in weapon range.</dd>
+<dt><strong>Wrastle</strong></dt>
+<dd>As an action, if you have a free hand, spend a Combo Point and make a melee attack. On a hit, the target makes an Evasion save. On a failure, you grapple the target.</dd>
+</dl>
 
     </div>
 </section>
@@ -2768,9 +2678,9 @@ Where do rituals show up?</p>
 <dt><strong>ability score modifier</strong></dt>
 <dd>= (ability score / 2) - 5</dd>
 <dt><strong>ability score</strong></dt>
-<dd>Each creature has six ability scores: Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma. These scores represent a creature&rsquo;s most basic attributes. The higher the score, the more raw potential and talent your character possesses. (Or Might, Vitality, Agility, Cognition, Discernment, Presence?)</dd>
+<dd>Each creature has six ability scores: Might, Vitality, Agility, Cognition, Discernment, and Presence. These scores represent a creature&rsquo;s most basic attributes. The higher the score, the more raw potential and talent your character possesses.</dd>
 <dt><strong>AC</strong></dt>
-<dd>= 10 + half Level + Tier + higher of Dexterity ability modifer and Intelligence ability modifier + armor bonus + shield bonus</dd>
+<dd>= 10 + half Level + Tier + higher of Agility modifer and Cognition modifier + armor bonus + shield bonus</dd>
 <dt><strong>advantage</strong></dt>
 <dd>roll a third d10 and sum the highest 2, cancels disadvantage</dd>
 <dt><strong>attack</strong></dt>
@@ -2783,18 +2693,24 @@ Where do rituals show up?</p>
 <dd>each increase of 1 to your critical range decreases the natural roll needed by 1 to critical (e.g., a +1 bonus to critical range means you would critical on a natural 19&ndash;20, by default).</dd>
 <dt><strong>critical</strong></dt>
 <dd>when you roll a natural 20, you critically succeed; if on an attack, you deal maximum damage.</dd>
+<dt><strong>dazed</strong></dt>
+<dd>A dazed target cannot act or move.</dd>
 <dt><strong>disadvantage</strong></dt>
 <dd>roll a third d10 and sum the lowest 2, cancels advantage</dd>
+<dt><strong>Evasion save</strong></dt>
+<dd>= 10 + half Level + Tier (if proficient) + higher of Agility modifer and Cognition modifier + shield bonus</dd>
 <dt><strong>flat-footed</strong></dt>
 <dd>a flat-footed creature suffers a -2 penalty on defenses</dd>
-<dt><strong>Fortitude</strong></dt>
-<dd>= 10 + half Level + Tier + higher of Strength ability modifer and Constitution ability modifier</dd>
+<dt><strong>frightened</strong></dt>
+<dd>a frightened creature suffers disadvantage on attack rolls (and more?) and cannot willingly move closer to the source of its fear.</dd>
 <dt><strong>goaded</strong></dt>
-<dd>a goaded creature suffers a -2 penalty on attack rolls when making attacks that do not include the goader</dd>
+<dd>a goaded creature suffers disadvantage on attack rolls when making attacks that do not include the goader</dd>
+<dt><strong>grappled</strong></dt>
+<dd>a grappled creature cannot move without escaping the grapple.</dd>
 <dt><strong>half</strong></dt>
 <dd>when you divide by 2 or take half of a value, round down</dd>
 <dt><strong>hit points</strong></dt>
-<dd>= Constitution ability score + max hit die + Level * (half hit die + Constitution ability score modifier)</dd>
+<dd>= Vitality score + hit die per Level + other bonuses</dd>
 <dt><strong>hit</strong></dt>
 <dd>when your modified attack roll equals or exceeds the target&rsquo;s defense, you hit&mdash;dealing damage and inflicting effects.</dd>
 <dt><strong>incompetence penalty</strong></dt>
@@ -2803,26 +2719,32 @@ Where do rituals show up?</p>
 <dd>an effect lasting one round lasts until the end of that character&rsquo;s next turn</dd>
 <dt><strong>Level</strong></dt>
 <dd>a fine-grained indication of the general power level of a character - rated 0 to 20 (possibly 30)</dd>
+<dt><strong>long rest</strong></dt>
+<dd>a rest of at least 8 hours during which you regain half of your recoveries</dd>
 <dt><strong>maneuver</strong></dt>
 <dd>a maneuver is a voluntarily move that does not provoke opportunity attacks</dd>
+<dt><strong>Mental</strong></dt>
+<dd>= 10 + half Level + Tier (if proficient) + higher of Discernment modifer and Presence modifier</dd>
 <dt><strong>miss</strong></dt>
 <dd>when your modified attack roll is less than or equal to the target&rsquo;s defense, you miss&mdash;dealing no damange and inflicting no effects, unless specified by the attacking power</dd>
+<dt><strong>Physical save</strong></dt>
+<dd>= 10 + half Level + Tier (if proficient) + higher of Might modifer and Vitality modifier</dd>
 <dt><strong>proficiency bonus</strong></dt>
-<dd>when proficient, gain a +1 per Tier bonus to the check or roll</dd>
+<dd>when proficient, gain a +1 per Tier bonus to the check, roll, or score</dd>
 <dt><strong>recoveries</strong></dt>
-<dd>A character has a number of recoveries (each worth a fourth of his total life) that may be spent to heal in certain situations.</dd>
-<dt><strong>Reflex/Evasion</strong></dt>
-<dd>= 10 + half Level + Tier + higher of Dexterity ability modifer and Intelligence ability modifier + shield bonus</dd>
+<dd>A character has a number of recoveries that may be spent to heal in certain situations. You regain recoveries during a long rest/downtime?</dd>
+<dt><strong>recovery value</strong></dt>
+<dd>A character&rsquo;s recovery value is worth a fourth of his total HP.</dd>
 <dt><strong>round</strong></dt>
 <dd>each creature in a combat has one turn to act in a round</dd>
 <dt><strong>save ends</strong></dt>
-<dd>an effect lasting until save ends continues until the effected creature rolls a successful save (11+ on an unmodified 2d10) at the end of its turn</dd>
+<dd>an effect lasting until save ends continues until the effected creature rolls a successful save against the original DC. These are usually rolled  at the end of its turn.</dd>
 <dt><strong>short rest</strong></dt>
 <dd>an uninterrupted rest of an hour? (10 minutes?) during which you may spend recoveries.</dd>
 <dt><strong>slowed</strong></dt>
 <dd>a slowed creature has 1 less Action and 1 less Reaction per round, cannot voluntarily move out of its turn, and cannot maneuver</dd>
 <dt><strong>stunned</strong></dt>
-<dd>a stunned creature has no Actions or Reactions and does not threaten</dd>
+<dd>A stunned target cannot act or move, attacks against them have advantage, and its Evasion saves have disadvantage. Supersedes dazed.</dd>
 <dt><strong>summon</strong></dt>
 <dd>a Summoning Power creates a creature with HP equal to your Winded value and Defenses equal to your base defenses - 1. You control this creature. When you take an Action to move, you may have this Creature move.</dd>
 <dt><strong>Tier</strong></dt>
@@ -2831,8 +2753,6 @@ Where do rituals show up?</p>
 <dd>a creature threatens another when it is able to act, has another creature in its melee range, and is an enemy to that creature.</dd>
 <dt><strong>turn</strong></dt>
 <dd>a creature gets to control combat on its turn; a creature has 2 Actions to spend on its turn; and 1 Reaction to spend, generally on another creature&rsquo;s turn, during each round</dd>
-<dt><strong>Will/Resolve</strong></dt>
-<dd>= 10 + half Level + Tier + higher of Wisdom ability modifer and Charisma ability modifier</dd>
 <dt><strong>winded</strong></dt>
 <dd>a creature is winded when its current hit points equal half or fewer of its maximum hit points</dd>
 </dl>

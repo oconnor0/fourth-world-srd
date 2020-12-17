@@ -34,8 +34,8 @@ Prayer List  Augury Bane Banish Beacon Bless. You bless the actions of one you t
       <description>How in the world do feats work here? What is there to upgrade?
 How to differentiate block, dodge, and parry?
 Crits/doubles/failure/miss/other triggers
-  ? Double Strike. After a quick attack from your main-hand weapon, you make another with your off-hand weapon.
- Martial, Weapon, Deed, Melee, Attack Level 0/2, Common Time: 1 Action Range: Melee weapons (main-hand and off-hand) Target: 1 or 2 creatures Attack: ATTR - 2 vs. AC (one with your main-hand weapon, and another with your off-hand weapon) Hit: WPN/2WPN damage Miss:    Or just spend combo points to make attacks?</description>
+Weaken?
+ Strike As an action, make a melee attack against a target you engage (rolling MIGHT vs AC, dealing WEAPON + MIGHT damage on a hit, and MIGHT damage on a miss). Shot As an action, make a ranged attack against a target in your weapon range (rolling AGILITY vs AC, and dealing WPN damage on a hit).</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Crits/doubles/failure/miss/other triggers
       
       <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
       <description>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&amp;mdash;performing sacred rites is not the same thing as channeling divine power.
-Choose a god, a pantheon of gods, or some other quasi-­divine being, and work with your GM to detail the nature of your religious service.</description>
+Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your GM to detail the nature of your religious service.</description>
     </item>
     
     <item>
