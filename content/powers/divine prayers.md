@@ -57,6 +57,7 @@ Where do rituals show up?
     - Y
       - With something connecting you to the target, you may determine the location of a creature or item and thus observe that location.
 - Snack/Meal/Feast
+- Exhale
 - Forbiddance
   - As an action, spend a Bond Point, draw or trace a 10' straight line on the ground, and name a creature type. For the next day, creatures of that type who attempt to cross the line must make a Mental saving throw. On a success, the creature takes d6+your Level plasmic damage. On a failure, the creature takes d6+your Level plasmic damage and cannot pass through the line for one minute.
   - Feats:
@@ -78,6 +79,7 @@ Where do rituals show up?
       - You may spend an additional Bond Point to allow all creatures within 20' of you to spend a recovery.
 - Hope
   - Bonus on saves?
+- Inhale
 - Inspire
 - Lifelink
   - As an Action, spend a Bond Point and touch a creature. While Sustained, damage dealt to either creature is halved with the other creature suffering the same amount of damage.
