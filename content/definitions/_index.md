@@ -92,7 +92,7 @@ weight: 9000
 : when proficient, gain a +1 per Tier bonus to the check, roll, or score
 
 **recoveries**
-: A character has a number of recoveries that may be spent to heal in certain situations. You regain recoveries during a long rest/downtime?
+: A character has a number of recoveries each worth a quarter of his maximum HP that may be spent to heal in certain situations. You regain all spent recoveries during a long rest/downtime. If you were taking to 0 HP and had 0 recoveries remaining, you regain neither HP nor recoveries during rest.
 
 **recovery value** TODO: This name is duplicated.
 : A character's recovery value is worth a fourth of his total HP.
