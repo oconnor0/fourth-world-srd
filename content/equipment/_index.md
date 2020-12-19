@@ -4,9 +4,10 @@ anchor: "equipment"
 weight: 2100
 ---
 
-- Rarity - Common, uncommon, rare, unique
-- Coin - Copper, silver, gold, ?, gems
-- Max 3 (or Tier?) permanent worn magic items?
+- TODO:
+  - Rarity - Common, uncommon, rare, unique
+  - Coin - Copper, silver, gold, ?, gems
+  - Max 3 (or Tier?) permanent worn magic items?
 
 ## Weapons
 

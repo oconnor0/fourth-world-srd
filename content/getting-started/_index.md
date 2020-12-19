@@ -21,8 +21,9 @@ Rules and stuff
 
 - Is this going to be d20 or 2d10?
 - Doubles or crit ranges (20, 19+, etc.)?
-- How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings? No proficiency is same numeric but always at disadvantage? Proficiency starts at -1 and then training adds +Tier?
-- Rename ability scores? Strength vs Might.
+- How is proficiency handled?
+  - No proficiency is same numeric but always at disadvantage?
+  - Proficiency starts at -1/0 and then training adds +Tier?
 - How to simplify action economy? Without being too simple. And without making unbreakable combos.
   - Action Economy: Action, move, on your turn, instant.
 - Is Templar different than Fighter/Wizard? Do only base classes exist or also hybrid ones? Does dual classing exist to allow hybrid hybrids? Is there only 1 class per source? Is Fighter/Wizard the same as Wizard/Fighter?
@@ -34,28 +35,12 @@ Rules and stuff
   - Pactmage (Eldritch)
   - ? (Psychic)
   - Gunslinger (Gunpowder/Technological)
-- Archetypes? Mighty, Swift? etc.
+- Archetypes? Mighty, Swift? etc. Or these are Feats/Exploits/Upgrades?
 - Roles? Defender, Controller, Striker, Leader, etc.
 - How far does advantage go?
   - 1? 2? 3? 4? Tier? Unbounded?
   - Is advantage + dice? So advantage 1 is +d4, if increase, change to +d6, etc?
   - Does it stack?!?!
-- How to create character ability scores?
-  - Roll 3d6?
-  - 4d6 drop 1?
-  - Point buy?
-  - Arrays?
-  - Bonus from bloodline/race?
-  - Class?
-  - Archetype?
-  - Voluntary?
-  - What about?
-    - Roll and assign 3d6.
-    - Replace 1 with 14?
-    - Bloodline gives +1 to X
-    - Class gives +1 to X
-    - Background gives +1 to X
-    - No starting score above 16? 17?
 - How do ability score advances go?
   - +2 to 1 or +1 to 2
   - +2 to 2
