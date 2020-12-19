@@ -39,6 +39,14 @@
         
             
     <li>
+        <a href="#character-creation">Character Creation</a>
+    </li>
+
+
+
+        
+            
+    <li>
         <a href="#bloodlines">Bloodlines</a>
     </li>
 
@@ -53,7 +61,11 @@
                 
                     <li><a href="#classes-fighter">Fighter</a></li>
                 
+                    <li><a href="#classes-pactmage">Pactmage</a></li>
+                
                     <li><a href="#classes-roboticist">Roboticist</a></li>
+                
+                    <li><a href="#classes-rogue">Rogue</a></li>
                 
                     <li><a href="#classes-shaman">Shaman</a></li>
                 
@@ -172,7 +184,7 @@
     </div>
 
     <div class="version">
-            generated on Dec 17, 2020
+            generated on Dec 18, 2020
     </div>
 </div>
 
@@ -201,8 +213,12 @@
 <ul>
 <li>Is this going to be d20 or 2d10?</li>
 <li>Doubles or crit ranges (20, 19+, etc.)?</li>
-<li>How is proficiency handled? +Tier, +half Level, +static N, ? Yes/no? Ratings? No proficiency is same numeric but always at disadvantage? Proficiency starts at -1 and then training adds +Tier?</li>
-<li>Rename ability scores? Strength vs Might.</li>
+<li>How is proficiency handled?
+<ul>
+<li>No proficiency is same numeric but always at disadvantage?</li>
+<li>Proficiency starts at -1/0 and then training adds +Tier?</li>
+</ul>
+</li>
 <li>How to simplify action economy? Without being too simple. And without making unbreakable combos.
 <ul>
 <li>Action Economy: Action, move, on your turn, instant.</li>
@@ -220,34 +236,13 @@
 <li>Gunslinger (Gunpowder/Technological)</li>
 </ul>
 </li>
-<li>Archetypes? Mighty, Swift? etc.</li>
+<li>Archetypes? Mighty, Swift? etc. Or these are Feats/Exploits/Upgrades?</li>
 <li>Roles? Defender, Controller, Striker, Leader, etc.</li>
 <li>How far does advantage go?
 <ul>
 <li>1? 2? 3? 4? Tier? Unbounded?</li>
 <li>Is advantage + dice? So advantage 1 is +d4, if increase, change to +d6, etc?</li>
-</ul>
-</li>
-<li>How to create character ability scores?
-<ul>
-<li>Roll 3d6?</li>
-<li>4d6 drop 1?</li>
-<li>Point buy?</li>
-<li>Arrays?</li>
-<li>Bonus from bloodline/race?</li>
-<li>Class?</li>
-<li>Archetype?</li>
-<li>Voluntary?</li>
-<li>What about?
-<ul>
-<li>Roll and assign 3d6.</li>
-<li>Replace 1 with 14?</li>
-<li>Bloodline gives +1 to X</li>
-<li>Class gives +1 to X</li>
-<li>Background gives +1 to X</li>
-<li>No starting score above 16? 17?</li>
-</ul>
-</li>
+<li>Does it stack?!?!</li>
 </ul>
 </li>
 <li>How do ability score advances go?
@@ -918,6 +913,32 @@
 
         
             
+    <section class="page" id="character-creation">
+    <h1>
+        <a href="#character-creation">Character Creation</a>
+    </h1>
+    <div class="content">
+        <p>To create a character follow these instructions:</p>
+<ol>
+<li>Roll 3d6 six times and assign each roll to one of your character&rsquo;s ability scores.</li>
+<li>?? Replace one ability score with 14.</li>
+<li>Select a bloodline. This will increase three ability scores by 1.</li>
+<li>Select a background. This will increase three ability scores by 1.</li>
+<li>Select a class. This will increase three ability scores by 1.</li>
+<li>No ability score may be increased above 17 for a starting character.</li>
+<li>Record ability modifiers: <code>(ability score / 2) - 5</code></li>
+<li>Record AC and Physical, Evasion, and Mental saves.</li>
+<li>Record attack, skill, ability, and damage rolls and checks.</li>
+</ol>
+
+    </div>
+</section>
+
+
+
+
+        
+            
     <section class="page" id="bloodlines">
     <h1>
         <a href="#bloodlines">Bloodlines</a>
@@ -949,15 +970,20 @@
         <a href="#classes">Classes</a>
     </h1>
     <div class="content">
-        <p>Each player chooses 1 class for their character.</p>
-<p>Each class has a key ability score. This grants an ability score increase during character creation (increasing the ability score by 1).
-<br/></p>
+        <p>TODO:</p>
 <ul>
-<li><a href="#classes-fighter">Fighter</a> (Martial X)</li>
-<li><a href="#classes-roboticist">Roboticist</a> (Technological Support)</li>
-<li><a href="#classes-shaman">Shaman</a> (Primal Support)</li>
-<li><a href="#classes-templar">Templar</a> (Arcane Defense)</li>
-<li><a href="#classes-wizard">Wizard</a> (Arcane Control)</li>
+<li>How do hybrid/half-classes work?</li>
+<li>Do roles exist mechanically or just implicitly?</li>
+</ul>
+<p>Each player chooses 1 class or 2 hybrid classes for their character.</p>
+<ul>
+<li><a href="#classes-fighter">Fighter</a></li>
+<li><a href="#classes-pactmage">Pactmage</a></li>
+<li><a href="#classes-roboticist">Roboticist</a></li>
+<li><a href="#classes-rogue">Rogue</a></li>
+<li><a href="#classes-shaman">Shaman</a></li>
+<li><a href="#classes-templar">Templar</a></li>
+<li><a href="#classes-wizard">Wizard</a></li>
 </ul>
 
     </div>
@@ -970,61 +996,38 @@
         <a href="#classes-fighter">Fighter</a>
     </h1>
     <div class="content">
-        <p>Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies.</p>
-<p><strong>Source.</strong> Martial</p>
-<p><strong>Role.</strong> Defender or Striker?</p>
-<p><strong>Alignment.</strong> Any</p>
-<p><strong>Hit Die.</strong> d10</p>
-<p><strong>Recoveries.</strong> 4</p>
-<p><strong>Prerequisites?</strong></p>
+        <ul>
+<li>TODO:
 <ul>
-<li>Might 14 or Agility 14?</li>
-</ul>
-<p><strong>Martial Save DC</strong></p>
-<ul>
-<li>8 + higher of Might and Agility score + half Level + ? Tier?</li>
-</ul>
-<p><strong>Proficiencies.</strong></p>
-<ul>
-<li><em>Defenses.</em>
-<ul>
-<li>AC</li>
-<li>Physical or Evasion</li>
+<li>+Level to weapon damage rolls?</li>
+<li>HP includes Vitality modifier per Level? Or Vitality score per Tier?</li>
+<li>Gunslinger is fighter subclass?</li>
+<li>Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16?</li>
+<li>Or is subclass extra and unnecessary complexity?</li>
 </ul>
 </li>
-<li><em>Damage.</em>
-<ul>
-<li>Melee or Ranged Damage Rolls?</li>
 </ul>
-</li>
-<li><em>Equipment.</em>
-<ul>
-<li>All weapons. (Or simple and war?)</li>
-<li>All armor and shields.</li>
-</ul>
-</li>
-<li><em>Implements.</em>  None.</li>
-<li><em>Skills.</em>
-<ul>
-<li>Combat</li>
-<li>Three of
-<ul>
-<li>Athletics</li>
-<li>Acrobatics</li>
-<li>Intimidation</li>
-<li>Survival/Nature</li>
-<li>Streetwise/Society?</li>
-<li>Dungeoneering?</li>
-</ul>
-</li>
-<li>Or</li>
-<li>Combat and three others.</li>
-</ul>
-</li>
-<li><em>Tools.</em>  None.</li>
-<li><em>Save DC.</em> Martial Save DC.</li>
-</ul>
-<p><strong>Progression.</strong></p>
+<p>Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies.</p>
+<p><strong>Requires</strong> Might 14 or Agility 14</p>
+<p><strong>Alignment</strong> Any</p>
+<p><strong>Hit Points</strong> Vitality score + d10 per Level (max 10) ???</p>
+<p><strong>Recoveries</strong> 4</p>
+<p><strong>Proficiencies</strong></p>
+<dl>
+<dt><em>Defenses</em></dt>
+<dd>AC and pick either Physical or Evasion saves.</dd>
+<dt><em>Damage</em></dt>
+<dd>Pick melee or ranged damage rolls.</dd>
+<dt><em>Equipment</em></dt>
+<dd>All weapons, armor, and shields.</dd>
+<dt><em>Skills</em></dt>
+<dd>Melee, Ranged, and pick two/three of Athletics, Acrobatics, Intimidation, etc.</dd>
+<dt><em>Save DC</em></dt>
+<dd>Martial Save DC (10 + higher of Might and Agility score + half Level + Tier).</dd>
+</dl>
+<p><strong>Starting Equipment</strong></p>
+<p>Pick from some options?</p>
+<p><strong>Progression</strong></p>
 <table>
 <thead>
 <tr>
@@ -1032,7 +1035,6 @@
 <th>Hit Dice</th>
 <th>Ability Score Improvement</th>
 <th style="text-align:center">Exploits</th>
-<th style="text-align:center">Feats</th>
 <th>Features</th>
 </tr>
 </thead>
@@ -1042,14 +1044,12 @@
 <td>1d10</td>
 <td>+1 to Might or Agility and two others</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
-<td>Combo Points</td>
+<td>Grit, Exploits, Subclass</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2d10</td>
 <td></td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
@@ -1058,7 +1058,6 @@
 <td>3d10</td>
 <td>+1 to three</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
@@ -1066,22 +1065,19 @@
 <td>4d10</td>
 <td></td>
 <td style="text-align:center"></td>
-<td style="text-align:center">+1</td>
-<td></td>
+<td>Subclass Feature</td>
 </tr>
 <tr>
 <td>5</td>
 <td>5d10</td>
 <td></td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>6d10</td>
 <td>+1 to three</td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
@@ -1090,7 +1086,6 @@
 <td>7d10</td>
 <td></td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
@@ -1098,22 +1093,19 @@
 <td>8d10</td>
 <td></td>
 <td style="text-align:center"></td>
-<td style="text-align:center">+1</td>
-<td></td>
+<td>Subclass Feature</td>
 </tr>
 <tr>
 <td>9</td>
 <td>9d10</td>
 <td>+1 to three</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>10d10</td>
 <td></td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
@@ -1122,7 +1114,6 @@
 <td>10d10+1</td>
 <td>+1 to all</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td>Second Action</td>
 </tr>
 <tr>
@@ -1130,22 +1121,19 @@
 <td>10d10+2</td>
 <td></td>
 <td style="text-align:center"></td>
-<td style="text-align:center">+1</td>
-<td></td>
+<td>Subclass Feature</td>
 </tr>
 <tr>
 <td>13</td>
 <td>10d10+3</td>
 <td>+1 to three</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>10d10+4</td>
 <td></td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
@@ -1154,7 +1142,6 @@
 <td>10d10+5</td>
 <td></td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
@@ -1162,22 +1149,19 @@
 <td>10d10+6</td>
 <td>+1 to three</td>
 <td style="text-align:center"></td>
-<td style="text-align:center">+1</td>
-<td></td>
+<td>Subclass Feature</td>
 </tr>
 <tr>
 <td>17</td>
 <td>10d10+7</td>
 <td></td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
 <td>18</td>
 <td>10d10+8</td>
 <td></td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
@@ -1186,33 +1170,42 @@
 <td>10d10+9</td>
 <td>+1 to three</td>
 <td style="text-align:center">+1</td>
-<td style="text-align:center"></td>
 <td></td>
 </tr>
 <tr>
 <td>20</td>
 <td>10d10+10</td>
 <td></td>
-<td style="text-align:center"></td>
 <td style="text-align:center">+1</td>
 <td></td>
 </tr>
 </tbody>
 </table>
-<p>Maybe way fewer feats? But if fewer then why all the levels? Are exploits and their upgrades both just feats? Like PF2e.
-Bonus damage? Bonus dice? +Level to weapon damage rolls? Shock?
-HP includes Vitality modifier per Level? Or Vitality score per Tier.
-Fighter gets only Exploits but can trade an Exploit for a Feat?
-How do features interact with the rest of it all?</p>
-<p><strong>Features.</strong></p>
+<p><strong>Features</strong></p>
 <ul>
-<li><em>Combo Points.</em> You gain 3 Combo Points that you can use to fuel powerful martial exploits. Any spent points refresh during a short or long rest.</li>
-<li><em>? Martial Strength.</em> You make Martial attacks using your Strength.</li>
+<li><em>Grit.</em> You gain 3 Grit that you can use to fuel powerful martial exploits. Any spent points refresh during a short or long rest.</li>
+<li><em>Martial Exploits.</em> You gain <a href="#powers-martial-exploits">Martial Exploits</a> as you level to gain new powers or to upgrade existing ones. You may pick a General Feat instead of a Martial Exploit.</li>
+<li><em>Subclass</em> You select a subclass that grants additional class features at levels 1, 4, 8, 12, and 16.</li>
 </ul>
-<p><strong>Level 11.</strong></p>
-<ul>
-<li><em>Second Action.</em> You gain a second action on each of your turns.</li>
-</ul>
+<p><strong>Level 11</strong> <em>Second Action</em> On each of your turns, you gain a second action.</p>
+<h2 id="fighter-subclasses">Fighter Subclasses</h2>
+<h3 id="gunslinger">Gunslinger</h3>
+<p><strong>Level 1</strong> You start with a rare firearm.</p>
+<p><strong>Level 4</strong> You gain Up Close And Personal or Sniper.</p>
+<p><strong>Level 8</strong> You gain Twinshot.</p>
+<p><strong>Level 12</strong> You gain Deadshot.</p>
+<p><strong>Level 16</strong> Twinshot upgrades to Volley.</p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="classes-pactmage">
+    <h1>
+        <a href="#classes-pactmage">Pactmage</a>
+    </h1>
+    <div class="content">
+        <p>You have made bad decisions for magical power.</p>
 
     </div>
 </section>
@@ -1223,7 +1216,7 @@ How do features interact with the rest of it all?</p>
         <a href="#classes-roboticist">Roboticist</a>
     </h1>
     <div class="content">
-        <p>You make awesome robots.</p>
+        <p>You make awesome robots. What could go wrong?</p>
 <p><strong>Source.</strong> Technological</p>
 <p><strong>Role.</strong> Support</p>
 <p><strong>Key Ability Score.</strong> Intelligence</p>
@@ -1275,6 +1268,17 @@ How do features interact with the rest of it all?</p>
 <p><em>Robot Ally.</em></p>
 </li>
 </ul>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="classes-rogue">
+    <h1>
+        <a href="#classes-rogue">Rogue</a>
+    </h1>
+    <div class="content">
+        <p>You are a sneaky man.</p>
 
     </div>
 </section>
@@ -2238,6 +2242,7 @@ Where do rituals show up?</p>
 </ul>
 </li>
 <li>Snack/Meal/Feast</li>
+<li>Exhale</li>
 <li>Forbiddance
 <ul>
 <li>As an action, spend a Bond Point, draw or trace a 10' straight line on the ground, and name a creature type. For the next day, creatures of that type who attempt to cross the line must make a Mental saving throw. On a success, the creature takes d6+your Level plasmic damage. On a failure, the creature takes d6+your Level plasmic damage and cannot pass through the line for one minute.</li>
@@ -2289,6 +2294,7 @@ Where do rituals show up?</p>
 <li>Bonus on saves?</li>
 </ul>
 </li>
+<li>Inhale</li>
 <li>Inspire</li>
 <li>Lifelink
 <ul>
@@ -2371,128 +2377,168 @@ Where do rituals show up?</p>
 <dd>As an action, make a ranged attack against a target in your weapon range (rolling AGILITY vs AC, and dealing WPN damage on a hit).</dd>
 <dt><strong>Aim</strong></dt>
 <dd>Sacrifice your movement. Make the first ranged attack this turn with advantage.</dd>
-<dt><strong>Beat Back</strong></dt>
-<dd>Once per turn, after hitting with a melee attack, spend a Combo Point to push the target 5' away from you and to maneuver 5'.</dd>
+<dt><strong>Beatback</strong></dt>
+<dd>Once per turn, after hitting with a melee attack, spend Grit to push the target 5' away from you and to maneuver 5'.</dd>
 <dt><strong>Block</strong></dt>
-<dd>Once per turn, spend a Combo Point to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</dd>
+<dd>Once per turn, spend Grit to raise your shield, forcing your enemy to reroll its attack against you with disadvantage.</dd>
 <dt><strong>Bloodthirst</strong></dt>
-<dd>The first time during a combat that you become Winded, regain a Combo Point.
+<dd>The first time during a combat that you become Winded, regain Grit.
 <ul>
-<li>Feats:
-<ul>
-<li>Bloodlust
-<ul>
-<li>Once per round, when an enemy deals damage to you with an attack, regain a Combo Point.</li>
-</ul>
-</li>
-</ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Bloodlust</strong></dt>
+<dd>Once per round, when an enemy deals damage to you with an attack, regain Grit.</dd>
+</dl>
 </li>
 </ul>
 </dd>
 <dt><strong>Charge</strong></dt>
-<dd>As an action, move up to your speed and make an attack with disadvantage.</dd>
+<dd>As an action, move up to your speed and make an attack.</dd>
 <dt><strong>Cleave</strong></dt>
-<dd>Once per turn, when you defeat a foe, spend a Combo Point to make another attack/Strike.</dd>
-<dt><strong>Clobber</strong></dt>
-<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Physical save. On a failure, the target is dazed. (A dazed target cannot act.) Physical save ends.
+<dd>Once per turn, when you defeat a foe with a melee attack, spend Grit to make another attack.
 <ul>
-<li>Feats:
-<ul>
-<li>What A Stunner.
-<ul>
-<li>On a failure, the target is stunned. (A stunned target cannot act, attacks against them have advantage, and its Evasion saves have disadvantage.)</li>
-</ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Followthrough</strong></dt>
+<dd>Once on your turn, when you defeat a foe with a melee attack, you may make another attack.</dd>
+</dl>
 </li>
 </ul>
+</dd>
+<dt><strong>Clobber</strong></dt>
+<dd>As an action, spend Grit and make an attack. On a hit, the target makes a Physical save. On a failure, the target is dazed. (A dazed target cannot act.) Physical save ends.
+<ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>What A Stunner</strong> Requires: Tier 3</dt>
+<dd>On a failure, the target is stunned. (A stunned target cannot act, attacks against him have advantage, and its Evasion saves have disadvantage.)</dd>
+</dl>
 </li>
 </ul>
 </dd>
 <dt><strong>Crescendo</strong></dt>
-<dd>Once per turn, you may exchange/spend Doubles/Crit on a weapon hit for a Combo Point.</dd>
+<dd>Once per turn, you may exchange/spend Doubles/Crit on a weapon hit for Grit.</dd>
+<dt><strong>Deadly</strong></dt>
+<dd>You may spend Grit to reroll an attack roll, keeping the second.</dd>
+<dt><strong>Deadshot</strong></dt>
+<dd>When making a ranged attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON? + AGILITY + Level? + Tier? damage.</dd>
 <dt><strong>Disarm</strong></dt>
-<dd>As an action, spend a Combo Point and make an attack.  On a hit, the target makes an Evasion save. On a failure, the target drops a weapon of your choice.</dd>
+<dd>As an action, spend Grit and make an attack.  On a hit, the target makes an Evasion save. On a failure, the target drops a weapon of your choice.</dd>
 <dt><strong>Dodge</strong></dt>
-<dd>Once per turn, spend a Combo Point to dodge out of the way of an attack, maneuvering 5' and forcing your enemy to reroll its attack against you.</dd>
-<dt><strong>Goad</strong></dt>
-<dd>Once per turn, spend a Combo Point after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</dd>
-<dt><strong>Hamstring</strong></dt>
-<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Evasion save. On a failure, the target cannot maneuver and cannot move more than 5' per round. Physical save ends.</dd>
+<dd>Once per turn, spend Grit to dodge out of the way of an attack, maneuvering 5' and forcing your enemy to reroll its attack against you.</dd>
+<dt><strong>Follow</strong></dt>
+<dd>Once per turn, when an enemy you engage advances, spend Grit to make a full advance toward him.
+<ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
 <dt><strong>Intercept</strong></dt>
-<dd>Once per turn, spend a Combo Point to make a full advance/movement toward a moving enemy within your movement range.</dd>
-<dt><strong>Magekiller</strong></dt>
-<dd>You may make Opportunity Attacks when an enemy you engage casts a spell.</dd>
-<dt><strong>Off-hand Strike</strong></dt>
-<dd>Once per turn, when you hit with a melee weapon held in your main hand, spend a Combo Point to make an attack with the weapon in your off hand.</dd>
-<dt><strong>Onslaught</strong></dt>
-<dd>Once per turn, when you score a critical hit/hit with double, you may make an additional attack/spend the crit to make an additional attack.</dd>
-<dt><strong>Parry</strong></dt>
-<dd>Once per turn, spend a Combo Point to parry with your melee weapon, forcing your enemy to reroll its melee attack against you with disadvantage.</dd>
-<dt><strong>Power Attack</strong></dt>
-<dd>When making a melee attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + MIGHT damage.</dd>
-<dt><strong>Precision</strong></dt>
-<dd>When making an attack, spend a Combo Point to roll with advantage.
-<ul>
-<li>Feats:
-<ul>
-<li>Boost
-<ul>
-<li>Roll an additional d10 instead of with advantage.</li>
-</ul>
-</li>
-</ul>
+<dd>You may Follow when any enemy moves within 30' of you.</dd>
+</dl>
 </li>
 </ul>
 </dd>
-<dt><strong>Riposte</strong></dt>
-<dd>Once per turn, spend a Combo Point to make an attack at a target that just attacked you.</dd>
-<dt><strong>Rising Tide</strong></dt>
-<dd>Once per round, regain a Combo Point when you defeat a foe.
+<dt><strong>Goad</strong></dt>
+<dd>Once per turn, spend Grit after hitting an enemy. While you engage that enemy, it is Goaded (a Goaded enemy suffers disadvantage on all attacks that do not include you.).</dd>
+<dt><strong>Hamstring</strong></dt>
+<dd>As an action, spend Grit and make an attack. On a hit, the target makes a Evasion save. On a failure, the target cannot maneuver and cannot move more than 5' per round. Physical save ends.</dd>
+<dt><strong>Mighty</strong></dt>
+<dd>You may spend Grit to reroll a damage roll, keeping the second.</dd>
+<dt><strong>Off-hand Strike</strong></dt>
+<dd>Once per turn, when you hit with a melee weapon held in your main hand, spend Grit to make an attack with the weapon in your off hand.</dd>
+<dt><strong>Onslaught</strong></dt>
+<dd>Once per turn, when you score a critical hit/hit with double, you may make an additional attack/spend the crit to make an additional attack.</dd>
+<dt><strong>Opportunity Attack</strong></dt>
+<dd>Once per round, when an enemy you engage moves out of your melee range, you may make an attack against him.
 <ul>
-<li>Feats:
-<ul>
-<li>Endless Tide
-<ul>
-<li>You may regain a Combo Point once per turn instead of only once per round.</li>
-</ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Magekiller</strong> Requires: Tier 2</dt>
+<dd>You may Opportunity Attack when an enemy you engage casts a spell.</dd>
+</dl>
 </li>
 </ul>
+</dd>
+<dt><strong>Parry</strong></dt>
+<dd>Once per turn, spend Grit to parry with your melee weapon, forcing your enemy to reroll its melee attack against you with disadvantage.</dd>
+<dt><strong>Power Attack</strong></dt>
+<dd>When making a melee attack, you may make your attack roll with disadvantage (roll an additional d6 and subtract it). If you hit, deal an additional WEAPON? + MIGHT + Level? + Tier? damage.</dd>
+<dt><strong>Precision</strong></dt>
+<dd>When making an attack, spend Grit to roll with advantage.
+<ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Boost</strong> Requires: Tier 3</dt>
+<dd>Roll an additional d10 instead of with advantage.</dd>
+</dl>
+</li>
+</ul>
+</dd>
+<dt><strong>Pugilist</strong></dt>
+<dd>Your unarmed attacks deal d4 kinetic damage instead of 1 kinetic damage.</dd>
+<dt><strong>Riposte</strong></dt>
+<dd>Once per turn, spend Grit to make an attack at a target that just attacked you.</dd>
+<dt><strong>Reckless</strong></dt>
+<dd>You may make all attacks this round with advantage. If you do, all attacks targeting you have advantage, and you roll your Evasion saves with disadvantage.</dd>
+<dt><strong>Rising Tide</strong></dt>
+<dd>Once per round, regain Grit when you defeat a foe.
+<ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Endless Tide</strong> Requires: Tier 2</dt>
+<dd>You may regain Grit once per turn instead of only once per round.</dd>
+</dl>
 </li>
 </ul>
 </dd>
 <dt><strong>Second Wind</strong></dt>
 <dd>Once per long rest/short rest/encounter, you may spend a recovery.</dd>
-<dt><strong>Sharpshooter</strong>/<strong>Deadshot</strong></dt>
-<dd>When making a ranged attack, you may make your attack roll with disadvantage. If you hit, deal an additional WEAPON + AGILITY damage.</dd>
 <dt><strong>Sniper</strong></dt>
 <dd>You do not suffer disadvantage on ranged attacks at distant targets.</dd>
-<dt><strong>Side Step</strong></dt>
-<dd>Once per turn, spend a Combo Point to maneuver 5'.</dd>
-<dt><strong>Smite?</strong></dt>
-<dd>Once per turn, spend a Combo Point to roll a number of additional WEAPON dice equal to your Tier.</dd>
+<dt><strong>Sidestep</strong></dt>
+<dd>Once per turn, spend Grit to maneuver 5'.</dd>
+<dt>?? <strong>Smite</strong></dt>
+<dd>Once per turn, spend Grit to roll a number of additional WEAPON dice equal to your Tier.</dd>
 <dt><strong>Terrify</strong></dt>
-<dd>Once on your turn, spend a Combo Point. An enemy who can see and hear you within 30' makes a Mental save. On a failure, the target is frightened. Mental save ends.
+<dd>Once on your turn, spend Grit. An enemy who can see and hear you within 30' makes a Mental save. On a failure, the target is frightened. Mental save ends.
 <ul>
-<li>Feats:
-<ul>
-<li>Bellow
-<ul>
-<li>When you Terrify, each enemy within 30' makes a Mental save.</li>
-</ul>
-</li>
-</ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Bellow</strong> Requires: Tier 2</dt>
+<dd>Each enemy within 30' makes a Mental save instead of just one.</dd>
+</dl>
 </li>
 </ul>
 </dd>
+<dt><strong>Throw</strong></dt>
+<dd>As an action, spend Grit. An enemy you grapple makes a Physical save. On a failure, roll a Might+Athletics check, the target lands prone that many feet away in a direction of your choosing, taking d6 damage for every 5' of distance, rounded up. On a success, the target is knocked prone.</dd>
 <dt><strong>Trip</strong></dt>
-<dd>As an action, spend a Combo Point and make an attack. On a hit, the target makes a Physical save. On a failure, the target is knocked prone.</dd>
-<dt><strong>Up And Personal</strong></dt>
+<dd>As an action, spend Grit and make an attack. On a hit, the target makes a Physical save. On a failure, the target is knocked prone.</dd>
+<dt><strong>Twinshot</strong></dt>
+<dd>As an action, spend Grit, select 2 creatures within 10' of each other in your weapon range and make a ranged attack with disadvantage against each.
+<ul>
+<li>
+<dl>
+<dt>Upgrades:</dt>
+<dt><strong>Volley</strong> Requires: Tier 2</dt>
+<dd>You may target all creatures in a 10'-diameter circle instead of just two.</dd>
+</dl>
+</li>
+</ul>
+</dd>
+<dt><strong>Up Close And Personal</strong></dt>
 <dd>You do not suffer disadvantage on ranged attacks while engaged in melee.</dd>
-<dt><strong>Volley</strong></dt>
-<dd>As an action, spend a Combo Point, specify a 10'-diameter circle in your weapon range and make a ranged attack with disadvantage against creature therein.</dd>
 <dt><strong>Whirlwind</strong></dt>
-<dd>As an action, spend a Combo Point and make a melee attack with disadvantage against every creature in weapon range.</dd>
+<dd>As an action, spend Grit and make a melee attack with disadvantage against every creature in weapon range.</dd>
 <dt><strong>Wrastle</strong></dt>
-<dd>As an action, if you have a free hand, spend a Combo Point and make a melee attack. On a hit, the target makes an Evasion save. On a failure, you grapple the target.</dd>
+<dd>As an action, if you have a free hand, spend Grit and make a melee attack. On a hit, the target makes an Evasion save. On a failure, you grapple the target.</dd>
 </dl>
 
     </div>
@@ -2607,9 +2653,13 @@ Where do rituals show up?</p>
     </h1>
     <div class="content">
         <ul>
+<li>TODO:
+<ul>
 <li>Rarity - Common, uncommon, rare, unique</li>
 <li>Coin - Copper, silver, gold, ?, gems</li>
 <li>Max 3 (or Tier?) permanent worn magic items?</li>
+</ul>
+</li>
 </ul>
 <h2 id="weapons">Weapons</h2>
 <h2 id="armor">Armor</h2>
@@ -2675,20 +2725,20 @@ Where do rituals show up?</p>
         <dl>
 <dt><strong>ability score increase</strong></dt>
 <dd>increase 1 ability score by 1</dd>
-<dt><strong>ability score modifier</strong></dt>
+<dt><strong>ability score modifier</strong> TODO: Is there a clearer name for this?</dt>
 <dd>= (ability score / 2) - 5</dd>
 <dt><strong>ability score</strong></dt>
 <dd>Each creature has six ability scores: Might, Vitality, Agility, Cognition, Discernment, and Presence. These scores represent a creature&rsquo;s most basic attributes. The higher the score, the more raw potential and talent your character possesses.</dd>
 <dt><strong>AC</strong></dt>
-<dd>= 10 + half Level + Tier + higher of Agility modifer and Cognition modifier + armor bonus + shield bonus</dd>
+<dd>= 10 + half Level + Tier? + higher of Agility modifer and Cognition modifier + armor bonus + shield bonus</dd>
 <dt><strong>advantage</strong></dt>
 <dd>roll a third d10 and sum the highest 2, cancels disadvantage</dd>
 <dt><strong>attack</strong></dt>
 <dd>a type of Power intended to hurt, demoralize, or kill an enemy; a creature can only Attack once per turn</dd>
 <dt><strong>botch</strong></dt>
 <dd>when your natural roll equals 2, you botch&mdash;failing the roll (dealing no damange and inflicting no effects, even if specified by an attack power used) and possibly suffering additional consequences</dd>
-<dt><strong>Combo Points</strong></dt>
-<dd>You gain access to a pool of 3 Combo Points. These points all refresh during a short rest.</dd>
+<dt><strong>Grit Points</strong></dt>
+<dd>You gain access to a pool of 3 Grit Points. These points all refresh during a short rest.</dd>
 <dt><strong>critical range</strong></dt>
 <dd>each increase of 1 to your critical range decreases the natural roll needed by 1 to critical (e.g., a +1 bonus to critical range means you would critical on a natural 19&ndash;20, by default).</dd>
 <dt><strong>critical</strong></dt>
@@ -2732,13 +2782,13 @@ Where do rituals show up?</p>
 <dt><strong>proficiency bonus</strong></dt>
 <dd>when proficient, gain a +1 per Tier bonus to the check, roll, or score</dd>
 <dt><strong>recoveries</strong></dt>
-<dd>A character has a number of recoveries that may be spent to heal in certain situations. You regain recoveries during a long rest/downtime?</dd>
-<dt><strong>recovery value</strong></dt>
+<dd>A character has a number of recoveries each worth a quarter of his maximum HP that may be spent to heal in certain situations. You regain all spent recoveries during a long rest/downtime. If you were taking to 0 HP and had 0 recoveries remaining, you regain neither HP nor recoveries during rest.</dd>
+<dt><strong>recovery value</strong> TODO: This name is duplicated.</dt>
 <dd>A character&rsquo;s recovery value is worth a fourth of his total HP.</dd>
 <dt><strong>round</strong></dt>
 <dd>each creature in a combat has one turn to act in a round</dd>
 <dt><strong>save ends</strong></dt>
-<dd>an effect lasting until save ends continues until the effected creature rolls a successful save against the original DC. These are usually rolled  at the end of its turn.</dd>
+<dd>an effect lasting until save ends continues until the effected creature rolls a successful save against the original DC. These are usually rolled at the end of its turn.</dd>
 <dt><strong>short rest</strong></dt>
 <dd>an uninterrupted rest of an hour? (10 minutes?) during which you may spend recoveries.</dd>
 <dt><strong>slowed</strong></dt>

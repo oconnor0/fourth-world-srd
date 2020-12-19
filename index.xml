@@ -84,7 +84,7 @@ Ability Score Increase. Choose 1 of
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://oconnor0.github.io/fourth-world-srd/classes/fighter/</guid>
-      <description>Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard. Whether you are a knight, mercenary, sharpshooter, or blade master, you have honed your martial skills into an art form and perform devastating critical attacks on your enemies.</description>
+      <description>TODO:  +Level to weapon damage rolls? HP includes Vitality modifier per Level? Or Vitality score per Tier? Gunslinger is fighter subclass? Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16? Or is subclass extra and unnecessary complexity?    Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques. You combine your actions through clever combinations of opening moves, finishing strikes, and counterattacks whenever your foes are unwise enough to drop their guard.</description>
     </item>
     
     <item>
@@ -118,12 +118,21 @@ Ability Score Increase. Choose 1 of
     </item>
     
     <item>
+      <title>Pactmage</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/pactmage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/pactmage/</guid>
+      <description>You have made bad decisions for magical power.</description>
+    </item>
+    
+    <item>
       <title>Roboticist</title>
       <link>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</guid>
-      <description>You make awesome robots.
+      <description>You make awesome robots. What could go wrong?
 Source. Technological
 Role. Support
 Key Ability Score. Intelligence
@@ -133,7 +142,16 @@ Hit Die. d8
 Recoveries. 4
 Prerequisites.
  Intelligence 13  Proficiencies.
- Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools. None.  Features.</description>
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools.</description>
+    </item>
+    
+    <item>
+      <title>Rogue</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/classes/rogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/classes/rogue/</guid>
+      <description>You are a sneaky man.</description>
     </item>
     
     <item>
