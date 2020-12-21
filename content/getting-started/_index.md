@@ -9,7 +9,7 @@ Rules and stuff
 ## Design Goals
 
 - The version of D&D 4e, D&D 5e, PF 2e, and 13A that I would want to play.
-- Dynamic/Temporary bonuses and penalties are dice (advantage/disadvantage). Static/Permanent bonuses and penalties are +/- modifiers.
+- Dynamic/Temporary bonuses and penalties are dice (advantage/disadvantage, maybe +dice). Static/Permanent bonuses and penalties are +/- modifiers.
 - You outscale monsters (so no bounded accuracy).
 - Initial best bonus is +5 = + 0 (half Level) + 1 (Tier) + 3 or 4 (Ability Score Modifier).
 - Final best bonus is +23 (or so) = + 10 (half Level) + 4 (Tier) + 6 (Modifier) + 3 (Item)
@@ -52,6 +52,7 @@ Rules and stuff
 - Status effects
 - Stop getting HD at level 10? and just get flat bonus to HP?
 - HP is Vitality + HD, reroll all HD at level up, increase by at least 1 HP?
+- Bulk? Load? Stowed? Readied?
 
 ## Old Advancement Table
 

@@ -59,4 +59,6 @@ weight: 400
 - Ignite.
 - Envenom.
 - Irradiate.
--
+- Wind
+- Summon/Conjure
+- Sleep?

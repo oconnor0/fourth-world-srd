@@ -103,6 +103,7 @@ Where do rituals show up?
   - As an Action, spend a Bond Point. A creature you see within 20' makes a Mental save. On a failure, that creature cannot speak. On a success, that creation can only whisper this round. Mental save ends.
 - Smite
   - Once per turn (once on your turn?), spend a Bond Point to infuse a weapon you wield with divine energy. The next time that weapon hits with an attack, deal an extra d8 radiant (only?) damage.
+- Spiritual Weapon
 - Strengthen
   - Bonus on X skill checks?
 - Summon?/Convoke/Conjure/Call/Beckon/Moot

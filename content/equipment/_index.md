@@ -11,6 +11,54 @@ weight: 2100
 
 ## Weapons
 
+| Name       | Price | Damage | Category | Group   | Traits |
+|------------|-------|--------|----------|---------|--------|
+| Dagger     |       | 1d4    | Simple   | Blade   | +1 attack, Thrown |
+| Shortsword |       | 1d6    | Warfare  | Blade   | +1 attack |
+| Longsword  |       | 1d8    | Warfare  | Blade   | +1 attack |
+| Greatsword |       | 1d10   | Warfare  | Blade   | +1 attack, two-handed |
+| Javelin    |       | 1d6    | Simple   | Spear   | Thrown? |
+| Spear      |       | 1d6    | Simple   | Spear   | Thrown? |
+| Longspear  |       | 1d10   | Simple   | Spear   | Reach, two-handed |
+| Handaxe    |       | d6     | Simple   | Axe     | Thrown? |
+| Battleaxe  |       | 1d8    | Warfare  | Axe     | Two-handed |
+| Greataxe   |       | 1d12   | Warfare  | Axe     | Two-handed |
+| Hammer     |       | d6     | Simple   | Hammer  | Thrown? |
+| Warhammer  |       | 1d8    | Warfare  | Hammer  | Two-handed d10 |
+| Maul       |       | 1d12   | Warfare  | Hammer  | Two-handed |
+| Club       |       | 1d4    | Warfare  | Club    |         |
+| Greatclub  |       | 1d8    | Simple   | Club    | Two-handed |
+| Mace       |       | 1d8    | Warfare  | Club    | Two-handed d10 |
+| Flail      |       | 1d8    | Warfare  | Flail   |  |
+| Quarterstaff |     | 1d6    | Simple   | Staff   | Two-handed d8 |
+
+Shortbow
+Longbow
+Greatbow
+
+Hand Crossbow
+Light Crossbow
+Heavy Crossbow
+Arbalest
+
+Javelin
+Dagger
+Dart
+Atlatl/spear-thrower
+Sling
+
+Pistol
+Derringer
+Pepperbox
+Revolver
+
+Arquebus
+Musket
+Rifle
+
+Dragon
+Blunderbuss
+
 ## Armor
 
 ## Gear
