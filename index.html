@@ -184,7 +184,7 @@
     </div>
 
     <div class="version">
-            generated on Dec 18, 2020
+            generated on Dec 20, 2020
     </div>
 </div>
 
@@ -201,7 +201,7 @@
 <h2 id="design-goals">Design Goals</h2>
 <ul>
 <li>The version of D&amp;D 4e, D&amp;D 5e, PF 2e, and 13A that I would want to play.</li>
-<li>Dynamic/Temporary bonuses and penalties are dice (advantage/disadvantage). Static/Permanent bonuses and penalties are +/- modifiers.</li>
+<li>Dynamic/Temporary bonuses and penalties are dice (advantage/disadvantage, maybe +dice). Static/Permanent bonuses and penalties are +/- modifiers.</li>
 <li>You outscale monsters (so no bounded accuracy).</li>
 <li>Initial best bonus is +5 = + 0 (half Level) + 1 (Tier) + 3 or 4 (Ability Score Modifier).</li>
 <li>Final best bonus is +23 (or so) = + 10 (half Level) + 4 (Tier) + 6 (Modifier) + 3 (Item)</li>
@@ -259,6 +259,7 @@
 <li>Status effects</li>
 <li>Stop getting HD at level 10? and just get flat bonus to HP?</li>
 <li>HP is Vitality + HD, reroll all HD at level up, increase by at least 1 HP?</li>
+<li>Bulk? Load? Stowed? Readied?</li>
 </ul>
 <h2 id="old-advancement-table">Old Advancement Table</h2>
 <div class="ritz">
@@ -1000,7 +1001,7 @@
 <li>TODO:
 <ul>
 <li>+Level to weapon damage rolls?</li>
-<li>HP includes Vitality modifier per Level? Or Vitality score per Tier?</li>
+<li>HP includes Vitality modifier per Level? Or Vitality score per Tier? Or Vitality modifier per Tier?</li>
 <li>Gunslinger is fighter subclass?</li>
 <li>Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16?</li>
 <li>Or is subclass extra an unnecessary complexity? I like the idea of picking at least one continuous thematic thing and it enables out-of-class features.</li>
@@ -2334,6 +2335,7 @@ Where do rituals show up?</p>
 <li>Once per turn (once on your turn?), spend a Bond Point to infuse a weapon you wield with divine energy. The next time that weapon hits with an attack, deal an extra d8 radiant (only?) damage.</li>
 </ul>
 </li>
+<li>Spiritual Weapon</li>
 <li>Strengthen
 <ul>
 <li>Bonus on X skill checks?</li>
@@ -2625,7 +2627,9 @@ Where do rituals show up?</p>
 <li>Ignite.</li>
 <li>Envenom.</li>
 <li>Irradiate.</li>
-<li></li>
+<li>Wind</li>
+<li>Summon/Conjure</li>
+<li>Sleep?</li>
 </ul>
 
     </div>
@@ -2663,6 +2667,185 @@ Where do rituals show up?</p>
 </li>
 </ul>
 <h2 id="weapons">Weapons</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Price</th>
+<th>Damage</th>
+<th>Category</th>
+<th>Group</th>
+<th>Traits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dagger</td>
+<td></td>
+<td>1d4</td>
+<td>Simple</td>
+<td>Blade</td>
+<td>+1 attack, Thrown</td>
+</tr>
+<tr>
+<td>Shortsword</td>
+<td></td>
+<td>1d6</td>
+<td>Warfare</td>
+<td>Blade</td>
+<td>+1 attack</td>
+</tr>
+<tr>
+<td>Longsword</td>
+<td></td>
+<td>1d8</td>
+<td>Warfare</td>
+<td>Blade</td>
+<td>+1 attack</td>
+</tr>
+<tr>
+<td>Greatsword</td>
+<td></td>
+<td>1d10</td>
+<td>Warfare</td>
+<td>Blade</td>
+<td>+1 attack, two-handed</td>
+</tr>
+<tr>
+<td>Javelin</td>
+<td></td>
+<td>1d6</td>
+<td>Simple</td>
+<td>Spear</td>
+<td>Thrown?</td>
+</tr>
+<tr>
+<td>Spear</td>
+<td></td>
+<td>1d6</td>
+<td>Simple</td>
+<td>Spear</td>
+<td>Thrown?</td>
+</tr>
+<tr>
+<td>Longspear</td>
+<td></td>
+<td>1d10</td>
+<td>Simple</td>
+<td>Spear</td>
+<td>Reach, two-handed</td>
+</tr>
+<tr>
+<td>Handaxe</td>
+<td></td>
+<td>d6</td>
+<td>Simple</td>
+<td>Axe</td>
+<td>Thrown?</td>
+</tr>
+<tr>
+<td>Battleaxe</td>
+<td></td>
+<td>1d8</td>
+<td>Warfare</td>
+<td>Axe</td>
+<td>Two-handed</td>
+</tr>
+<tr>
+<td>Greataxe</td>
+<td></td>
+<td>1d12</td>
+<td>Warfare</td>
+<td>Axe</td>
+<td>Two-handed</td>
+</tr>
+<tr>
+<td>Hammer</td>
+<td></td>
+<td>d6</td>
+<td>Simple</td>
+<td>Hammer</td>
+<td>Thrown?</td>
+</tr>
+<tr>
+<td>Warhammer</td>
+<td></td>
+<td>1d8</td>
+<td>Warfare</td>
+<td>Hammer</td>
+<td>Two-handed d10</td>
+</tr>
+<tr>
+<td>Maul</td>
+<td></td>
+<td>1d12</td>
+<td>Warfare</td>
+<td>Hammer</td>
+<td>Two-handed</td>
+</tr>
+<tr>
+<td>Club</td>
+<td></td>
+<td>1d4</td>
+<td>Warfare</td>
+<td>Club</td>
+<td></td>
+</tr>
+<tr>
+<td>Greatclub</td>
+<td></td>
+<td>1d8</td>
+<td>Simple</td>
+<td>Club</td>
+<td>Two-handed</td>
+</tr>
+<tr>
+<td>Mace</td>
+<td></td>
+<td>1d8</td>
+<td>Warfare</td>
+<td>Club</td>
+<td>Two-handed d10</td>
+</tr>
+<tr>
+<td>Flail</td>
+<td></td>
+<td>1d8</td>
+<td>Warfare</td>
+<td>Flail</td>
+<td></td>
+</tr>
+<tr>
+<td>Quarterstaff</td>
+<td></td>
+<td>1d6</td>
+<td>Simple</td>
+<td>Staff</td>
+<td>Two-handed d8</td>
+</tr>
+</tbody>
+</table>
+<p>Shortbow
+Longbow
+Greatbow</p>
+<p>Hand Crossbow
+Light Crossbow
+Heavy Crossbow
+Arbalest</p>
+<p>Javelin
+Dagger
+Dart
+Atlatl/spear-thrower
+Sling</p>
+<p>Pistol
+Derringer
+Pepperbox
+Revolver</p>
+<p>Arquebus
+Musket
+Rifle</p>
+<p>Dragon
+Blunderbuss</p>
 <h2 id="armor">Armor</h2>
 <h2 id="gear">Gear</h2>
 <h2 id="consumables">Consumables</h2>
