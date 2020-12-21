@@ -61,6 +61,28 @@ Blunderbuss
 
 ## Armor
 
+Gambeson
+Hauberk/byrnie
+Brigandine
+Cuirasse
+Plate panoply/full steel plate harness
+
+Shield
+
+Light +1/+2
+Medium +2/+3/+4
+Heavy +5/+6
+Exosuit +6/+7/+8
+
+Gambeson
+Breastplate
+Brigandine/Jack of plate
+Hauberk
+Plate
+Panoply
+
+Shield
+
 ## Gear
 
 ## Consumables
