@@ -11,6 +11,20 @@ weight: 2100
 
 ## Weapons
 
+1. A simple weapon starts at d6. An X weapon starts at d8.
+2. Make the weapon two-handed to increase the dice one step.
+3. Pick one trait for a simple weapon. Pick two traits for an X weapon.
+4. Traits:
+  1. Thrown - The weapon can be thrown X feet.
+  2. Ranged - Decrease the dice one step. The weapon gains a range of X.
+  3. Accurate - Decrease the dice one step. +1 to attacks made with this weapon.
+  4. Heavy - Increase the dice one step. Small creatures attack with disadvantage with this weapon.
+  5. Light - Decrease the dice one step. This is small enough to be used effectively in your off-hand.
+  6. Critical - Roll an additional weapon dice on a critical hit. (Or d8/d10/d12?)
+  7. Reach - Increase the range of a melee weapon by 5'.
+
+Other traits? Firearms? What else?
+
 | Name       | Price | Damage | Category | Group   | Traits |
 |------------|-------|--------|----------|---------|--------|
 | Dagger     |       | 1d4    | Simple   | Blade   | +1 attack, Thrown |
@@ -61,27 +75,13 @@ Blunderbuss
 
 ## Armor
 
-Gambeson
-Hauberk/byrnie
-Brigandine
-Cuirasse
-Plate panoply/full steel plate harness
+Gambeson +1
+Hauberk/byrnie +2
+Brigandine +3
+Cuirasse +4
+Plate panoply/full steel plate harness +5
 
-Shield
-
-Light +1/+2
-Medium +2/+3/+4
-Heavy +5/+6
-Exosuit +6/+7/+8
-
-Gambeson
-Breastplate
-Brigandine/Jack of plate
-Hauberk
-Plate
-Panoply
-
-Shield
+Shield +1 or +2
 
 ## Gear
 
