@@ -71,12 +71,12 @@ Where do rituals show up?
 - Hallow
 - Harm
 - Heal
-  - As an Action, spend a Bond Point, a creature you see within 20' may spend a recovery.
+  - As an Action, spend Bond, a creature you see within 20' may spend a recovery.
   - Feats:
     - Quick Cast:
       - You may cast this spell once on your turn instead of spending an action.
     - Pulse
-      - You may spend an additional Bond Point to allow all creatures within 20' of you to spend a recovery.
+      - You may spend an additional Bond to allow all creatures within 20' of you to spend a recovery.
 - Hope
   - Bonus on saves?
 - Inhale

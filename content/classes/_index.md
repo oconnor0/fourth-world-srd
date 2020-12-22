@@ -9,8 +9,9 @@ TODO:
 - How do hybrid/half-classes work?
 - Do roles exist mechanically or just implicitly?
 
-Each player chooses 1 class or 2 hybrid classes for their character.
+Each player chooses 1 class or 2 half/hybrid classes for their character.
 
+- [Cleric](#classes-cleric)
 - [Fighter](#classes-fighter)
 - [Pactmage](#classes-pactmage)
 - [Roboticist](#classes-roboticist)

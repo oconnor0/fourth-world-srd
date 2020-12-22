@@ -27,7 +27,7 @@ Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an u
 : AC and pick either Physical or Evasion saves.
 
 *Damage*
-: Pick melee or ranged damage rolls.
+: Melee and ranged weapon damage rolls.
 
 *Equipment*
 : All weapons, armor, and shields.

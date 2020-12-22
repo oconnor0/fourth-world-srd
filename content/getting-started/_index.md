@@ -52,7 +52,13 @@ Rules and stuff
 - Status effects
 - Stop getting HD at level 10? and just get flat bonus to HP?
 - HP is Vitality + HD, reroll all HD at level up, increase by at least 1 HP?
+- HP is Bloodline HD + HD per Level (max 10) + 1 additional for each level over 10?
 - Bulk? Load? Stowed? Readied?
+- Should powers just be called feats?
+- How to handle just 1 "temporary" bonus? Like not just one but one from a power/potion/spell/etc.
+Sustained?
+- How to handle wasted upgrades/powers that aren't useful anymore?
+- How do feats/upgrades build on each other?
 
 ## Old Advancement Table
 
