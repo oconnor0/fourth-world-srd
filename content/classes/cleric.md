@@ -78,17 +78,7 @@ Pick from some options?
 
 ### Contest/War
 
-### Life
-
-**Level 1** You gain Heal.
-
-**Level 6** You gain Bless.
-
-**Level 11** You gain
-
-**Level 16** You gain
-
-### Sun
+### Fire/Flame
 
 **Level 1** You gain Firebolt.
 
@@ -98,4 +88,52 @@ Pick from some options?
 
 **Level 16** You gain Inferno/Cataclysm/Upgrade Firebolt/Ignite?
 
+### Grave
+
+**Level 1** You gain .
+
+**Level 6** You gain .
+
+**Level 11** You gain .
+
+**Level 16** You gain .
+
+### Life
+
+**Level 1** You gain Heal.
+
+**Level 6** You gain Bless.
+
+**Level 11** You gain .
+
+**Level 16** You gain .
+
+### Strength
+
+**Level 1** You gain .
+
+**Level 6** You gain .
+
+**Level 11** You gain .
+
+**Level 16** You gain .
+
+### Sun
+
+**Level 1** You gain .
+
+**Level 6** You gain .
+
+**Level 11** You gain .
+
+**Level 16** You gain .
+
 ### Truth
+
+**Level 1** You gain .
+
+**Level 6** You gain .
+
+**Level 11** You gain .
+
+**Level 16** You gain .
