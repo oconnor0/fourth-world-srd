@@ -1,7 +1,7 @@
 ---
-title: "Feats"
-anchor: "feats"
-weight: 1800
+title: "General Feats"
+anchor: "feats-general "
+weight: 10
 ---
 
 Do these exist?
