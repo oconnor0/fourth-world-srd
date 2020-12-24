@@ -46,7 +46,7 @@ Pick from some options?
 
 | Level | Hit Dice | Ability Score Improvement | Prayers | Features |
 |-------|----------|---------------------------|:--------:|----------|
-| 1     |  1d8     | +1 to Discernment or Presence and two | +1       | Bond, Prayers, Domain |
+| 1     |  1d8     | +1 to Discernment or Presence and two others | +1       | Bond, Prayers, Domain |
 | 2     |  2d8     |                           | +1       |          |
 | 3     |  3d8     |                           | +1       |          |
 | 4     |  4d8     | +1 to three               | +1       |          |

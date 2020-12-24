@@ -92,6 +92,13 @@ Light and heavy armor? Need medium?
 
 ## Magic Items
 
+- TODO:
+  - How to make all magic items have a curse/doom?
+
+- Excalibur
+- Amulet of Protection
+- X
+
 - Belt of Alacrity. *An iridescent belt with tiny opals woven into it.*
   - While wearing this belt, the wearer gains +2 to his Agility ability score and cannot be knocked prone?
   - Can reroll failed Evasion saves? Advantage on Evasion saves?
