@@ -7,32 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arcane Spells</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/powers/arcane-spells/</link>
+      <title>General Feats</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/general-feats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/powers/arcane-spells/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/general-feats/</guid>
+      <description>Do these exist?
+A specific feat for each skill? Which means that a class with a lot of feats could become proficient in every skill.
+ Armor Proficiency Prerequisites. None.   Mortal. You become proficient with light armor. If you already were proficient with light armor, you gain proficiency with medium armor, if you were proficient with both, you gain proficiency with heavy armor, and if you were proficient with in all three, you gain proficiency with exosuits.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Spells</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/arcane-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/arcane-spells/</guid>
       <description>Plasmic Dart. You send a magical dart streaking toward a creature that you can see.  Arcane, Attack, Spell, Ranged, Plasmic Level 0/1/2, Common Time: 1 Action Range: 100&#39; Target: 1/2/3 Creatures Attack: Automatic Hit Hit: 1d4 + 1 plasmic damage Miss:   Plasmic Touch. A touch from your hand, which glows with blue energy, blasts the target creature.  Arcane, Attack, Spell, Melee, Touch, Plasmic Level 0, Common Time: 1 Action Range: Melee Touch Target: 1 Creature Attack: ATTR vs.</description>
     </item>
     
     <item>
       <title>Divine Prayers</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/powers/divine-prayers/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/divine-prayers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/powers/divine-prayers/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/divine-prayers/</guid>
       <description>Focus on buffs, debuffs, defense, protection, healing, divination, truth, reality vs direct damage, illusion, etc. Support and social rather than combat; in general. Where do rituals show up?
 Prayer List  Augury Bane Banish Beacon Bless. You bless the actions of one you touch, aiding their goals.  Divine, Utility, Spell, Touch Rank 1, Common, for Tier 1 Cast Time: 1 Action, 1 Minute? Duration: 1 Day, Sustained? Cost: 1 Bond Point Range: Touch Target: 1 Creature Effect: The creature gains a pool of 1 + your Tier d4 dice.</description>
     </item>
     
     <item>
       <title>Martial Exploits</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/powers/martial-exploits/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/martial-exploits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/powers/martial-exploits/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/martial-exploits/</guid>
       <description>How in the world do feats work here? What is there to upgrade?
-How to differentiate block, dodge, and parry?
+Should there be more differentiation between base and upgraded block, dodge, and parry?
 Crits/doubles/failure/miss/other triggers
 Weaken?
  Strike As an action, make a melee attack against a target you engage (rolling MIGHT vs AC, dealing WEAPON + MIGHT damage on a hit, and MIGHT damage on a miss). Shot As an action, make a ranged attack against a target in your weapon range (rolling AGILITY vs AC, and dealing WPN damage on a hit).</description>
@@ -40,38 +51,38 @@ Weaken?
     
     <item>
       <title>Primal Evocations</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/powers/primal-evocations/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/primal-evocations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/powers/primal-evocations/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/primal-evocations/</guid>
       <description>TODO:  Do upgrades replace what they upgrade or add on? To what extent should upgraded spells just replace earlier ones?     Firebolt As an action, spend Blood, an enemy within 100&#39; makes an Evasion save (or you make a ranged spell attack). On a failure (or a hit), target takes 2d6 thermal damage per Tier. On a success (or a miss), half damage.    Upgrades: Scorching Ray As an action, spend Blood, two enemies within 100&#39; make an Evasion save (or you make a ranged spell attack).</description>
     </item>
     
     <item>
       <title>Technological Wonders</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/powers/technological-wonders/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/technological-wonders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/powers/technological-wonders/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/technological-wonders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acolyte</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/acolyte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/acolyte/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/acolyte/</guid>
       <description>You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric&amp;mdash;performing sacred rites is not the same thing as channeling divine power.
 Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your GM to detail the nature of your religious service.</description>
     </item>
     
     <item>
       <title>Apprentice</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/apprentice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/apprentice/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/apprentice/</guid>
       <description>You were apprenticed to a local craftsman.
 Ability Score Increase. Choose 1 of
  Strength Dexterity Intelligence  Proficiencies.
@@ -80,46 +91,46 @@ Ability Score Increase. Choose 1 of
     
     <item>
       <title>Cleric</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/cleric/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/cleric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/cleric/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/cleric/</guid>
       <description>TODO:  Any martial variants? +Level to spell damage rolls? Domain like fighter subclass at 1, 4, 8, 12, 16? Or 1 bonus per tier at 1, 6, 11, 16? Does it grant extra prayers? Extra Bond? Some of the domains make sense to grant non-divine prayers but what about ones that mostly/only give divine prayers? Do prayers have &amp;ldquo;levels&amp;rdquo; or just tiers?     Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants.</description>
     </item>
     
     <item>
       <title>Fighter</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/fighter/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/fighter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/fighter/</guid>
-      <description>TODO:  +Level to weapon damage rolls? HP includes Vitality modifier per Level? Or Vitality score per Tier? Or Vitality modifier per Tier? Gunslinger is fighter subclass? Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16? Or is subclass extra an unnecessary complexity? I like the idea of picking at least one continuous thematic thing and it enables out-of-class features.    Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an undisputed master of weaponry and combat techniques.</description>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/fighter/</guid>
+      <description>TODO:  +Level to weapon damage rolls? (+half Level to weapon damage rolls) HP includes Vitality modifier per Level? Or Vitality score per Tier? Or Vitality modifier per Tier? Gunslinger is fighter subclass? Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16? Or is subclass extra an unnecessary complexity? I like the idea of picking at least one continuous thematic thing and it enables out-of-class features.</description>
     </item>
     
     <item>
       <title>Merchant</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/merchant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/merchant/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/merchant/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Military</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/military/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/military/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/military/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Noble</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/noble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/noble/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/noble/</guid>
       <description>You come from aristocracy or nobility.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom Charisma  Proficiencies.
@@ -128,19 +139,19 @@ Ability Score Increase. Choose 1 of
     
     <item>
       <title>Pactmage</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/pactmage/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/pactmage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/pactmage/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/pactmage/</guid>
       <description>You have made bad decisions for magical power.</description>
     </item>
     
     <item>
       <title>Roboticist</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/roboticist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/roboticist/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/roboticist/</guid>
       <description>You make awesome robots. What could go wrong?
 Source. Technological
 Role. Support
@@ -156,37 +167,37 @@ Prerequisites.
     
     <item>
       <title>Rogue</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/rogue/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/rogue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/rogue/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/rogue/</guid>
       <description>You are a sneaky man.</description>
     </item>
     
     <item>
       <title>Sailor</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/sailor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/sailor/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/sailor/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Shaman</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/shaman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/shaman/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/shaman/</guid>
       <description>While some heroes speak to gods or consort with otherworldly muses, shamans commune with the spirits of the world and the energies that exist in every living thing. These primal adventurers draw upon their power to shape the world and expand the influence of their spiritual patrons. Shamans have strong ties to natural spirits. They form powerful bonds with particular spirits, and as their power grows they learn to call upon other spirits in times of need.</description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/student/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/student/</guid>
       <description>You have been studying at a college or university.
 Ability Score Increase. Choose 1 of
  Intelligence Wisdom  Proficiencies.
@@ -195,10 +206,10 @@ Ability Score Increase. Choose 1 of
     
     <item>
       <title>Templar</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/templar/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/templar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/templar/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/templar/</guid>
       <description>The templar stands wrapped in armor ready to protect his allies with might and magic.
 Source. Arcane
 Role. Defense
@@ -214,19 +225,19 @@ Proficiencies.
     
     <item>
       <title>Vagabond</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/vagabond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/backgrounds/vagabond/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/30-backgrounds/vagabond/</guid>
       <description>Ability Score Increase. None.</description>
     </item>
     
     <item>
       <title>Wizard</title>
-      <link>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</link>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/wizard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://oconnor0.github.io/fourth-world-srd/classes/wizard/</guid>
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/wizard/</guid>
       <description>Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible&amp;mdash;such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals.</description>
     </item>
     

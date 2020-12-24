@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feats on Fourth World SRD</title>
+    <link>https://oconnor0.github.io/fourth-world-srd/60-feats/</link>
+    <description>Recent content in Feats on Fourth World SRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/60-feats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Feats</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/general-feats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/general-feats/</guid>
+      <description>Do these exist?
+A specific feat for each skill? Which means that a class with a lot of feats could become proficient in every skill.
+ Armor Proficiency Prerequisites. None.   Mortal. You become proficient with light armor. If you already were proficient with light armor, you gain proficiency with medium armor, if you were proficient with both, you gain proficiency with heavy armor, and if you were proficient with in all three, you gain proficiency with exosuits.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Spells</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/arcane-spells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/arcane-spells/</guid>
+      <description>Plasmic Dart. You send a magical dart streaking toward a creature that you can see.  Arcane, Attack, Spell, Ranged, Plasmic Level 0/1/2, Common Time: 1 Action Range: 100&#39; Target: 1/2/3 Creatures Attack: Automatic Hit Hit: 1d4 + 1 plasmic damage Miss:   Plasmic Touch. A touch from your hand, which glows with blue energy, blasts the target creature.  Arcane, Attack, Spell, Melee, Touch, Plasmic Level 0, Common Time: 1 Action Range: Melee Touch Target: 1 Creature Attack: ATTR vs.</description>
+    </item>
+    
+    <item>
+      <title>Divine Prayers</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/divine-prayers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/divine-prayers/</guid>
+      <description>Focus on buffs, debuffs, defense, protection, healing, divination, truth, reality vs direct damage, illusion, etc. Support and social rather than combat; in general. Where do rituals show up?
+Prayer List  Augury Bane Banish Beacon Bless. You bless the actions of one you touch, aiding their goals.  Divine, Utility, Spell, Touch Rank 1, Common, for Tier 1 Cast Time: 1 Action, 1 Minute? Duration: 1 Day, Sustained? Cost: 1 Bond Point Range: Touch Target: 1 Creature Effect: The creature gains a pool of 1 + your Tier d4 dice.</description>
+    </item>
+    
+    <item>
+      <title>Martial Exploits</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/martial-exploits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/martial-exploits/</guid>
+      <description>How in the world do feats work here? What is there to upgrade?
+Should there be more differentiation between base and upgraded block, dodge, and parry?
+Crits/doubles/failure/miss/other triggers
+Weaken?
+ Strike As an action, make a melee attack against a target you engage (rolling MIGHT vs AC, dealing WEAPON + MIGHT damage on a hit, and MIGHT damage on a miss). Shot As an action, make a ranged attack against a target in your weapon range (rolling AGILITY vs AC, and dealing WPN damage on a hit).</description>
+    </item>
+    
+    <item>
+      <title>Primal Evocations</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/primal-evocations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/primal-evocations/</guid>
+      <description>TODO:  Do upgrades replace what they upgrade or add on? To what extent should upgraded spells just replace earlier ones?     Firebolt As an action, spend Blood, an enemy within 100&#39; makes an Evasion save (or you make a ranged spell attack). On a failure (or a hit), target takes 2d6 thermal damage per Tier. On a success (or a miss), half damage.    Upgrades: Scorching Ray As an action, spend Blood, two enemies within 100&#39; make an Evasion save (or you make a ranged spell attack).</description>
+    </item>
+    
+    <item>
+      <title>Technological Wonders</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/60-feats/technological-wonders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/60-feats/technological-wonders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

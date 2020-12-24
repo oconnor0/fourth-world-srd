@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on Fourth World SRD</title>
+    <link>https://oconnor0.github.io/fourth-world-srd/40-classes/</link>
+    <description>Recent content in Classes on Fourth World SRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://oconnor0.github.io/fourth-world-srd/40-classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cleric</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/cleric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/cleric/</guid>
+      <description>TODO:  Any martial variants? +Level to spell damage rolls? Domain like fighter subclass at 1, 4, 8, 12, 16? Or 1 bonus per tier at 1, 6, 11, 16? Does it grant extra prayers? Extra Bond? Some of the domains make sense to grant non-divine prayers but what about ones that mostly/only give divine prayers? Do prayers have &amp;ldquo;levels&amp;rdquo; or just tiers?     Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants.</description>
+    </item>
+    
+    <item>
+      <title>Fighter</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/fighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/fighter/</guid>
+      <description>TODO:  +Level to weapon damage rolls? (+half Level to weapon damage rolls) HP includes Vitality modifier per Level? Or Vitality score per Tier? Or Vitality modifier per Tier? Gunslinger is fighter subclass? Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16? Or is subclass extra an unnecessary complexity? I like the idea of picking at least one continuous thematic thing and it enables out-of-class features.</description>
+    </item>
+    
+    <item>
+      <title>Pactmage</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/pactmage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/pactmage/</guid>
+      <description>You have made bad decisions for magical power.</description>
+    </item>
+    
+    <item>
+      <title>Roboticist</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/roboticist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/roboticist/</guid>
+      <description>You make awesome robots. What could go wrong?
+Source. Technological
+Role. Support
+Key Ability Score. Intelligence
+Ability Score Increase. Choose 1 of
+ Dexterity Intelligence Wisdom  Alignment. Any
+Hit Die. d8
+Recoveries. 4
+Prerequisites.
+ Intelligence 13  Proficiencies.
+ Equipment.  Simple Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 3 of  Arcana Athletics Endurance Medicine Nature Religion Science Survival Technology   Tools.</description>
+    </item>
+    
+    <item>
+      <title>Rogue</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/rogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/rogue/</guid>
+      <description>You are a sneaky man.</description>
+    </item>
+    
+    <item>
+      <title>Shaman</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/shaman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/shaman/</guid>
+      <description>While some heroes speak to gods or consort with otherworldly muses, shamans commune with the spirits of the world and the energies that exist in every living thing. These primal adventurers draw upon their power to shape the world and expand the influence of their spiritual patrons. Shamans have strong ties to natural spirits. They form powerful bonds with particular spirits, and as their power grows they learn to call upon other spirits in times of need.</description>
+    </item>
+    
+    <item>
+      <title>Templar</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/templar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/templar/</guid>
+      <description>The templar stands wrapped in armor ready to protect his allies with might and magic.
+Source. Arcane
+Role. Defense
+Key Ability Score. Intelligence
+Ability Score Increase. Choose 1 of
+ Strength Constitution Intelligence  Alignment. Any
+Hit Die. d10
+Recoveries. 6
+Prerequisites. None.
+Proficiencies.
+ Equipment.  Simple Weapons Martial Weapons Light Armor Medium Armor Heavy Armor   Implements. None. Skills. Choose 2 of  Arcana Athletics Endurance Society   Tools.</description>
+    </item>
+    
+    <item>
+      <title>Wizard</title>
+      <link>https://oconnor0.github.io/fourth-world-srd/40-classes/wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oconnor0.github.io/fourth-world-srd/40-classes/wizard/</guid>
+      <description>Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible&amp;mdash;such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals.</description>
+    </item>
+    
+  </channel>
+</rss>
