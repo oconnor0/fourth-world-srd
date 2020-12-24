@@ -6,9 +6,11 @@ weight: 50
 
 If you are trained in a skill, add your Tier to all relevant rolls.
 
-Unlike other similar games, Fourth World has no Perception skill. When looking for something, either rule as the GM or have the PC make a Discernment check with the most relevant skill modifying it. For example, checking for an ambush could be modified by Combat or Survival, checking for a trap might be Thievery, checing to see if someone was lying would be Deception, etc.
+Skill check = 2d10 + ability score modifier + Tier if trained in relevant skill + item bonuses + etc.
 
-Check = 2d10 + ability score modifier + Tier if trained in relevant skill + item bonuses + etc.
+Or ability check (modified by a skill)?
+
+Unlike other similar games, Fourth World has no Perception skill. When looking for something, either rule as the GM or have the PC make a Discernment check with the most relevant skill modifying it. For example, checking for an ambush could be modified by Combat or Survival, checking for a trap might be Thievery, checing to see if someone was lying would be Deception, etc.
 
 Group checks - Everyone rolls. Success covers 1 failure. Critical covers 2 failures or 1 botch. Two successes are requires to cover 1 botch. If any failures/botches weren't covered, the group fails; otherwise the group succeeds.
 
