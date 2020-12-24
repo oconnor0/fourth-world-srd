@@ -1,7 +1,7 @@
 ---
 title: "Primal Evocations"
 anchor: "powers-primal-evocations"
-weight: 400
+weight: 50
 ---
 
 - TODO:

@@ -1,7 +1,7 @@
 ---
 title: "Equipment"
 anchor: "equipment"
-weight: 2100
+weight: 80
 ---
 
 - TODO:

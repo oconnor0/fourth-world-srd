@@ -1,7 +1,7 @@
 ---
 title: "Definitions"
 anchor: "definitions"
-weight: 9000
+weight: 95
 ---
 
 **ability score increase**

@@ -1,7 +1,7 @@
 ---
 title: "Character Creation"
 anchor: "character-creation"
-weight: 90
+weight: 10
 ---
 
 To create a character follow these instructions:

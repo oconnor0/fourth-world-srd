@@ -1,7 +1,7 @@
 ---
 title: "Arcane Spells"
 anchor: "powers-arcane-spells"
-weight: 100
+weight: 20
 ---
 
 - Plasmic Dart. *You send a magical dart streaking toward a creature that you can see.*

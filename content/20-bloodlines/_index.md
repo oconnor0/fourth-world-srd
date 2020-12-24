@@ -1,7 +1,7 @@
 ---
 title: "Bloodlines"
 anchor: "bloodlines"
-weight: 100
+weight: 20
 ---
 
 - Android

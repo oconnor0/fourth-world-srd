@@ -1,7 +1,7 @@
 ---
 title: "Backgrounds"
 anchor: "backgrounds"
-weight: 300
+weight: 30
 ---
 
 - [Merchant](#backgrounds-merchant)

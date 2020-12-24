@@ -1,7 +1,7 @@
 ---
 title: "Skills"
 anchor: "skills"
-weight: 1000
+weight: 50
 ---
 
 If you are trained in a skill, add your Tier to all relevant rolls.

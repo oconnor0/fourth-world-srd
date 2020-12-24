@@ -1,7 +1,7 @@
 ---
 title: "Divine Prayers"
 anchor: "powers-divine-prayers"
-weight: 200
+weight: 30
 ---
 
 Focus on buffs, debuffs, defense, protection, healing, divination, truth, reality vs direct damage, illusion, etc. Support and social rather than combat; in general.

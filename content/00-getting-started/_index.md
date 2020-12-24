@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 anchor: "getting-started"
-weight: 1
+weight: 01
 ---
 
 Rules and stuff

@@ -1,7 +1,7 @@
 ---
 title: "Classes"
 anchor: "classes"
-weight: 200
+weight: 40
 ---
 
 
