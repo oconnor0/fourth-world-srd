@@ -5,7 +5,7 @@ weight:
 ---
 
 - TODO:
-  - +Level to weapon damage rolls?
+  - +Level to weapon damage rolls? (+half Level to weapon damage rolls)
   - HP includes Vitality modifier per Level? Or Vitality score per Tier? Or Vitality modifier per Tier?
   - Gunslinger is fighter subclass?
   - Are there subclasses? Subclass is instead of exploits at 1, 4, 8, 12, 16?
@@ -17,7 +17,7 @@ Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an u
 
 **Alignment** Any
 
-**Hit Points** Vitality score + d10 per Level (max 10) ???
+**Hit Points** Vitality score + hit dice (d10 per Level (max 10) + 1 for each level past 10)
 
 **Recoveries** 4
 
@@ -33,7 +33,7 @@ Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an u
 : All weapons, armor, and shields.
 
 *Skills*
-: Melee, Ranged, and pick two/three of Athletics, Acrobatics, Intimidation, etc.
+: Combat and two others.
 
 *Save DC*
 : Martial Save DC (10 + higher of Might and Agility score + half Level + Tier).

@@ -33,7 +33,7 @@ Deities work their will upon the world in infinite ways, and you serve as one of
 : All simple weapons, light armor, and shields.
 
 *Skills*
-: Religion and five others.
+: Religion and four others.
 
 *Save DC*
 : Divine Save DC (10 + higher of Discernment and Presence score + half Level + Tier).

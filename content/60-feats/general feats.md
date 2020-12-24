@@ -6,6 +6,8 @@ weight: 10
 
 Do these exist?
 
+A specific feat for each skill? Which means that a class with a lot of feats could become proficient in every skill.
+
 **Armor Proficiency**
 : **Prerequisites.**  None.
 
