@@ -80,3 +80,4 @@ weight: 50
 - Wind
 - Summon/Conjure
 - Sleep?
+- Thorn Armor

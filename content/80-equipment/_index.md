@@ -7,7 +7,7 @@ weight: 80
 - TODO:
   - Rarity - Common, uncommon, rare, unique
   - Coin - Copper, silver, gold, ?, gems
-  - Max 3 (or Tier?) permanent worn magic items?
+  - Max Tier permanent worn magic items?
 
 ## Weapons
 
@@ -80,8 +80,8 @@ Light and heavy armor? Need medium?
 | Name           | Category | Bonus | Traits |
 |----------------|----------|-------|--------|
 | Gambeson       | Light    | +1    |        |
-| Hauberk/byrnie | Light    | +2    |        |
-| Brigandine     | Light    | +3    |        |
+| Hauberk/byrnie | Medium   | +2    |        |
+| Brigandine     | Medium   | +3    |        |
 | Cuirasse       | Heavy    | +4    |        |
 | Plate harness  | Heavy    | +5    |        |
 | Shield         | Shield   | +1 or +2 |        |
@@ -95,7 +95,6 @@ Light and heavy armor? Need medium?
 - TODO:
   - How to make all magic items have a curse/doom?
 
-- Excalibur
 - Amulet of Protection
 - X
 
@@ -109,6 +108,8 @@ Light and heavy armor? Need medium?
   - Expensive, Attuned?, Magical, Rare, Belt
   - While wearing this belt, the wearer gains +2 to his Vitality ability score and suffers no ill effects from intoxication.
   - Reroll failed Physical saves? Advantage on Physical saves?
+- Ring of Armor
+  - You gain a +1 item bonus to your AC.
 - Ring of Resistance
   - Expensive, Magical, Rare, Ring
   - You have resistance to one energy type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
@@ -125,3 +126,37 @@ Light and heavy armor? Need medium?
     - 10, Pick Another, As Picked
 
 ## Artifacts
+
+All artifacts are unique and have a doom laid upon them.
+
+- Excalibur
+  - 3d8
+- Carnwennan
+- Rhongomyniad
+- The Sword in the Stone
+- Spear of Longinus/Lance of Longinus/Spear of Destiny/Holy Spear
+  - 2d12
+- The Grail
+  - Those who drink worthily are raised to life eternal; those who drink unworthily, drink damnation upon themselves.
+- The Ruling Ring
+  - Pulls the wearer into the Unseen Realm, making him invisible to those in the Seen Realm.
+  - Slowly corrupts the wearer.
+  - Longs to return to its master.
+  - Bestows great power of X on the wearer.
+  - Stretchs the wearer's life.
+  - Allows dominion over wearers of any of the other great rings.
+- Ring of Fire
+  - Those you consider companions cannot be frightened within one day of your encouragement.
+  - Something about Fire
+- Ring of Water
+- Ring of Air
+- Snowspear, Icicle, the Elven Spear, Rimespear, Frostspear, Icespike, Rimehorn, Frostlance,
+  - 2d12?
+- Rimesorrow, frostgrieve, rime's lament, icelament,
+- Memory
+- Sorrow
+- Thorn
+- Ouroboros Ring
+  - Something about eternal life/reincarnation but ...
+- Dragnipur
+- Nightblood

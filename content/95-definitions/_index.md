@@ -4,29 +4,29 @@ anchor: "definitions"
 weight: 95
 ---
 
+**ability score**
+: Each creature has six ability scores: Might, Vitality, Agility, Cognition, Discernment, and Presence. These scores represent a creature's most basic attributes. The higher the score, the more raw potential and talent your character possesses.
+
 **ability score increase**
-: increase 1 ability score by 1
+: increase three ability scores by 1
 
 **ability score modifier** TODO: Is there a clearer name for this?
 : = (ability score / 2) - 5
 
-**ability score**
-: Each creature has six ability scores: Might, Vitality, Agility, Cognition, Discernment, and Presence. These scores represent a creature's most basic attributes. The higher the score, the more raw potential and talent your character possesses.
-
 **AC**
-: = 10 + half Level + Tier? + higher of Agility modifer and Cognition modifier + armor bonus + shield bonus
+: = 10 + half Level + Tier if proficient + higher of Agility modifer and Cognition modifier + armor bonus + shield bonus + ?
 
 **advantage**
-: roll a third d10 and sum the highest 2, cancels disadvantage
+: roll an additional d10 and sum the highest 2, cancels disadvantage
 
 **attack**
-: a type of Power intended to hurt, demoralize, or kill an enemy; a creature can only Attack once per turn
+: a type of Power intended to hurt, demoralize, or kill an enemy; -- ?? a creature can only Attack once per turn
 
 **botch**
 : when your natural roll equals 2, you botch---failing the roll (dealing no damange and inflicting no effects, even if specified by an attack power used) and possibly suffering additional consequences
 
-**Grit Points**
-: You gain access to a pool of 3 Grit Points. These points all refresh during a short rest.
+**Grit**
+: You gain access to a pool of 3 Grit. These points all refresh during a short rest.
 
 **critical range**
 : each increase of 1 to your critical range decreases the natural roll needed by 1 to critical (e.g., a +1 bonus to critical range means you would critical on a natural 19--20, by default).
@@ -38,7 +38,7 @@ weight: 95
 : A dazed target cannot act or move.
 
 **disadvantage**
-: roll a third d10 and sum the lowest 2, cancels advantage
+: roll an additional d10 and sum the lowest 2, cancels advantage
 
 **Evasion save**
 : = 10 + half Level + Tier (if proficient) + higher of Agility modifer and Cognition modifier + shield bonus

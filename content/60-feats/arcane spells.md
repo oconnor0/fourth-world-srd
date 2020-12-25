@@ -30,5 +30,4 @@ weight: 20
   - Target:
   - Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart
   - Duration: Sustain 1 Action
-
-
+- Mage Armor/Plasmic Armor/?
