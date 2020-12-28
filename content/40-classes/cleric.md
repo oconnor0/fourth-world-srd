@@ -9,7 +9,7 @@ weight:
   - +Level to spell damage rolls?
   - Domain like fighter subclass at 1, 4, 8, 12, 16? Or 1 bonus per tier at 1, 6, 11, 16? Does it grant extra prayers? Extra Bond? Some of the domains make sense to grant non-divine prayers but what about ones that mostly/only give divine prayers?
   - Do prayers have "levels" or just tiers?
-  -
+  - Is Bond named Favor?
 
 Deities work their will upon the world in infinite ways, and you serve as one of their most stalwart mortal servants. Blessed with divine magic, you live the ideals of your faith, adorn yourself with the symbols of your church, and train diligently to wield your deity’s favored weapon. Your spells might protect and heal your allies, or they might punish foes and enemies of your faith, as your deity wills. Yours is a life of devotion, spreading the teachings of your faith through both word and deed.
 

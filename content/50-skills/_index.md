@@ -16,6 +16,8 @@ Group checks - Everyone rolls. Success covers 1 failure. Critical covers 2 failu
 
 Leader checks - A variant take on group checks. But the leader's check is used as the result?
 
+Chivalry instead of Civilization or Persuasion or Performance?
+
 **Athletics**
 : Your Might+Athletics check covers difficult situations you encounter while climbing, jumping, or swimming. Your Agility+Athletics check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck.
 
