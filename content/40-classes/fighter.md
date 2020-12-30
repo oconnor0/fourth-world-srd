@@ -24,7 +24,7 @@ Fighting for honor, greed, loyalty, or simply the thrill of battle, you are an u
 **Proficiencies**
 
 *Defenses*
-: AC and pick either Physical or Evasion saves.
+: Pick either Physical or Evasion saves.
 
 *Damage*
 : Melee and ranged weapon damage rolls.

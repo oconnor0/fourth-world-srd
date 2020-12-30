@@ -11,4 +11,4 @@ weight: 60
 - [Primal Evocations](#feats-primal-evocations)
 - [Technological Wonders](#feats-technological-wonders)
 
-Classes grant you certain feats. Usually a class will grant you a specific feat, say a Fighter granting only Exploits. Usually, these specific feats can be exchanged for a general feat.
+Classes grant you certain feats. Usually a class will grant you a specific feat, say a Fighter granting only Exploits. Usually, these specific feats can be exchanged for a general feat. Perhaps all Exploits, Spells, etc. granted at a single level may be traded for a general feat.

@@ -8,6 +8,15 @@ Do these exist?
 
 A specific feat for each skill? Which means that a class with a lot of feats could become proficient in every skill.
 
+**Skilled** Requires: Cognition 13?
+: Gain proficiency in 2/3 skills.
+
+**Resilient**
+: Gain proficiency in Physical, Evasion, or Mental saves.
+
+**Exosuit Proficiency**
+: Gain proficiency in the use of exosuits.
+
 **Armor Proficiency**
 : **Prerequisites.**  None.
 

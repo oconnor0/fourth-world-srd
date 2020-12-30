@@ -81,3 +81,9 @@ weight: 50
 - Summon/Conjure
 - Sleep?
 - Thorn Armor
+
+**Barkskin**
+: As an Action, spend Blood. Target a willing creature within 30'. During the next 8 hours, you gain resistance to kinetic damage.
+  - Upgrades:
+    **Better**
+    : You also gain resistance to 2 of ...

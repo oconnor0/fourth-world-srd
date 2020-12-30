@@ -24,6 +24,8 @@ Rules and stuff
 - How is proficiency handled?
   - No proficiency is same numeric but always at disadvantage?
   - Proficiency starts at -1/0 and then training adds +Tier?
+  - Only adds to dice rolls?
+  - Is there a proficiency bonus thing?
 - How to simplify action economy? Without being too simple. And without making unbreakable combos.
   - Action Economy: Action, move, on your turn, instant.
 - Is Templar different than Fighter/Wizard? Do only base classes exist or also hybrid ones? Does dual classing exist to allow hybrid hybrids? Is there only 1 class per source? Is Fighter/Wizard the same as Wizard/Fighter?

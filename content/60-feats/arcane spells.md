@@ -30,4 +30,9 @@ weight: 20
   - Target:
   - Effect: +2 Shield Bonus to AC and Reflex; no damage from Plasmic Dart
   - Duration: Sustain 1 Action
-- Mage Armor/Plasmic Armor/?
+
+**Mage Armor**
+: As an Action, spend Mana. Target a willing creature within 30'. Once during the next 8 hours, when an attack hits the creature, it may force the attacker to reroll its attack with disadvantage.
+  - Upgrades:
+    **Better**
+    : The targeted creature may force the reroll up to twice your Tier.

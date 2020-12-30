@@ -48,7 +48,7 @@ Where do rituals show up?
 - Enflame
 - Famine
 - Farsight
-  - As an action, spend a Bond Point, while sustained for the next X, you may peer through a point your physical eyes could see.
+  - As an action, spend Bond, while sustained for the next X, you may peer through a point your physical eyes could see.
   - Feats:
     - Scrying
       - You may view a location anywhere on the planet instead of anywhere within your normal line of sight.
@@ -59,12 +59,12 @@ Where do rituals show up?
 - Snack/Meal/Feast
 - Exhale
 - Forbiddance
-  - As an action, spend a Bond Point, draw or trace a 10' straight line on the ground, and name a creature type. For the next day, creatures of that type who attempt to cross the line must make a Mental saving throw. On a success, the creature takes d6+your Level plasmic damage. On a failure, the creature takes d6+your Level plasmic damage and cannot pass through the line for one minute.
+  - As an action, spend Bond, draw or trace a 10' straight line on the ground, and name a creature type. For the next day, creatures of that type who attempt to cross the line must make a Mental saving throw. On a success, the creature takes d6+your Level plasmic damage. On a failure, the creature takes d6+your Level plasmic damage and cannot pass through the line for one minute.
   - Feats:
     - Circle
       - You may trace up to 40' on the ground in any shape.
     - Ritual
-      - You may spend an hour casting this spell instead of spending a Bond Point.
+      - You may spend an hour casting this spell instead of spending Bond.
 - Guardian
 - Guidance
   - Bonus on attack rolls? Advantage or more specific +Dice (ala Bless)?
@@ -82,7 +82,7 @@ Where do rituals show up?
 - Inhale
 - Inspire
 - Lifelink
-  - As an Action, spend a Bond Point and touch a creature. While Sustained, damage dealt to either creature is halved with the other creature suffering the same amount of damage.
+  - As an Action, spend Bond and touch a creature. While Sustained, damage dealt to either creature is halved with the other creature suffering the same amount of damage.
 - Locate
 - Malfeasance
 - Nightfall/Darkness/Darkfall/Dusk
@@ -93,16 +93,24 @@ Where do rituals show up?
 - Raise
 - Rebuke/Turn Undead
 - Resist
-  - As an Action, spend a Bond Point. While Sustained, a creature you see within 20' gains resistance to one non-kinetic damage type.
+  - As an Action, spend Bond. While Sustained, a creature you see within 20' gains resistance to one non-kinetic damage type.
 - Restore/Restoration
 - Sanctuary
 - Sear
 - Shield
   - +AC or temporary HP?
+
+**Shield**
+: As an Action, spend Bond. Target a willing creature within 30'. Once during the next 8 hours, when an you would take damage, you may gain temporary HP equal to 10 per your Tier.
+  - Upgrades:
+    **More Frequently**
+    : The targeted creature may gain temporary HP a number of times up to twice your Tier.
+
+
 - Silence
-  - As an Action, spend a Bond Point. A creature you see within 20' makes a Mental save. On a failure, that creature cannot speak. On a success, that creation can only whisper this round. Mental save ends.
+  - As an Action, spend Bond. A creature you see within 20' makes a Mental save. On a failure, that creature cannot speak. On a success, that creation can only whisper this round. Mental save ends.
 - Smite
-  - Once per turn (once on your turn?), spend a Bond Point to infuse a weapon you wield with divine energy. The next time that weapon hits with an attack, deal an extra d8 radiant (only?) damage.
+  - Once per turn (once on your turn?), spend Bond to infuse a weapon you wield with divine energy. The next time that weapon hits with an attack, deal an extra d8 radiant (only?) damage.
 - Spiritual Weapon
 - Strengthen
   - Bonus on X skill checks?
