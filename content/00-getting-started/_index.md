@@ -6,6 +6,16 @@ weight: 01
 
 Rules and stuff
 
+4W is currently on development hiatus. I am fairly pleased with the Martial Exploits and the Fighter. Though how subclasses should work are not obvious to me. Development is on hiatus as I don't know where to go with the game. This initially started as "my version" of Dungeons and Dragons 4th Edition. But fixing some of the bugs in that game. I didn't like that you picked powers that you later lost. I wanted you to be able to upgrade those powers and keept them for the life of the game; which means fewer powers. I wanted choices to be meaningful rather than: well, I want to be a good swordsman so after I picked this power at 1st level, I need to pick these other 5 powers and upgrades to keep that power relevant. As I write this, I better understand Pathfinder 2e, 13th Age, Dungeons and Dragons 5th Edition, and Stars Without Number. "Meaningful choices" below refering to character creation and advancement choices.
+
+- 13A says you can't make 20 meaningful choices and increasing your bonuses every other level is wonky so lets shoot for 10 meaningful choices and increase bonuses every level. You don't get to play to "level 20" but there aren't as many, if any, dead levels where you get more HP and a few more bonuses but no meaningful leveling choices.
+- 5e says you can't make 20 meaningful choices and that's not the important thing and increasing bonuses means goblins stop being a threat so we have to make a new, higher-level "goblin" that fills the same role. Instead of lots of power choices as you level, let's give the player fewer but more meaningful choices.
+- PF2 says you can't make 20 meaningful choices so lets give 10 power choices that appear meaningful but let's make power chains so that you make 1 or 2 choices early on and then pick the upgrades. Or you can, I guess, diversify. Spellcasters gets more choices.
+- SWN says you can't make 20 meaningful choices and 20 hit dice is too many anyway. So lets give 4-8 feat/focus/power picks and only go to level 10. Of course some classes will be given more choices.
+- Most of these games say that just giving numeric bonuses in feats/powers is just too strong or required.
+
+However, all of that means that I'm not sure where Fourth World fits in the game design space. Going from level 1 to level 20 is a lot of game design required and choices that would need to be made and providing the player with interesting choices that don't just become required is challenging. I don't see how 4W meaningfully differentiates itself from the existing games. A game design "idea" doesn't have to be meaningfully different but this sounds like a lot of work for something that another game would probably do better - since it already exists.
+
 ## Design Goals
 
 - The version of D&D 4e, D&D 5e, PF 2e, and 13A that I would want to play.

@@ -124,6 +124,8 @@ Light and heavy armor? Need medium?
     - 8, Entropic, Jet
     - 9, Chemical, Amethyst, Pearl?
     - 10, Pick Another, As Picked
+- Ring of Turning
+  - When an attack hits you, roll a d20. On a roll of 1, the attack misses at the last moment. If the attack still hits you, increase the roll threshold by 1. If the attack now misses, reset the threshold to 1.
 
 ## Artifacts
 
